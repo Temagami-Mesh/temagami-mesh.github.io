@@ -1,9 +1,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Support"
-    url: /support/
-  - title: "Contribute"
-    url: /contribute/
   - title: "Connect"
     url: /connect/
+  - title: "Resources"
+    url: /resources/
+  - title: "Support"
+    url: /support/
+  
