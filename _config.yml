@@ -61,14 +61,14 @@ author:
   avatar : "/assets/images/temagami-meshtastic-logo.jpg"
   bio    : "Connecting the remote shores of Lake Temagami with Meshtastic LoRa mesh."
   links:
-    - label: "GitHub"
+    - label: "GitHub Discussion Group"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/temagami-meshtastic"
+      url: "https://github.com/orgs/Temagami-Meshtastic/discussions"
 footer:
   links:
-    - label: "GitHub"
+    - label: "GitHub Discussion Group"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/temagami-meshtastic"
+      url: "https://github.com/orgs/Temagami-Meshtastic/discussions"
 
 defaults:
   # _posts
