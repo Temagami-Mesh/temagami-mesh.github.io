@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-This website provides a central repository of information for meshtastic users on Lake Temagami and the surrounding region and a github discussion forum where people can share updates or ask questions.
-
 ## What is Meshtastic?
 
 Meshtastic is an open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages, GPS positions, and sensor data from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
@@ -22,3 +20,7 @@ On a lake area with poor or no cell coverage, Meshtastic nodes placed in homes, 
 - No ongoing cost and extremely low power draw (solar or battery friendly)
 
 Because each node acts as a relay, the network becomes stronger as more people participate. A few well-placed “router” nodes on high ground or tall trees can cover the entire lake, providing a resilient, community-owned communications layer that continues working when conventional networks fail.
+
+## About This Project
+
+This website provides a central repository of information of interest to meshtastic users on Lake Temagami area and a github discussion forum where people can get technical help with their local mesh projects. There is no formal organization and we don't own any property. All contributions remain the property of and are the responsibility of their respective owners.
