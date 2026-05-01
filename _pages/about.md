@@ -83,23 +83,3 @@ The two predefined public channels for the area are:
 | :-: | --------- | -------------- | ------- |
 | 1   | Longfast  | AQ==           | Default public channel |
 | 2   | Weather   | Rg==           | Automated Weather Broadcasts |
-
-## Project Maintainers:
-
-Technical assistance for this mesh networking project is being provided on a voluntary basis by:
-
-Bond Keevil 
-- Amateur Radio Operator Callsigns VA3HBK and VE3TLV
-- CompTIA Network+ Certified
-- Public Key: LJpD2FFLkKokaV28E7V2IP269sP3Ni3S1xd2msXc+lE=
-
-If you add a person's public key to you list of authorized admins in the Meshtastic app settings, they can help you administer your radio remotely over the Mesh network. 
-
-## How to Support the Network
-
-* Install a meshtastic node on your property. Ideal locations are elevated and have a reliable year round power source. 
-* Monetary donations to be used to build and distribute free nodes. The parts to construct a reliable commercial quality node cost approximately $300. Interac E-Transfer to me@bondkeevil.ca
-* Donations of meshtastic node sites. Ideal node sites are elevated and have a reliable power source. Nodes can also be installed in vehicles and vessels. Solar nodes can be built but its a challenge to keep them operating in sub-zero temperatures.
-* Donations of organizational support. If aspects of this mission align with your organizational goals, please go ahead and implement your own projects.
-
-Please note that no formal organization exists to control this project or own property. All contributions remain the property and responsbility of the contributors. 
