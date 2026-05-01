@@ -30,19 +30,12 @@ a:hover, .btn:hover {
   transform: translateY(-2px);
 }
 
-
 /* Terminal-style code blocks & Meshtastic config snippets */
 .highlight, pre {
   background: #111111 !important;
   border: 1px solid #00ff9f;
   box-shadow: 0 0 15px #00ff9f;
   font-family: "Courier New", monospace;
-}
-
-/* Sidebar like a hacked HUD */
-.sidebar {
-  background: rgba(10, 10, 20, 0.95);
-  border-left: 3px solid #ff00ff;
 }
 
 /* Footer matrix rain vibe */
