@@ -5,7 +5,7 @@ title: "Roadmap"
 
 This project is in the very early stages and we are looking for early adopters and people who own property who might be willing to host an infrastructure node or allow one to be hosted on it by others. 
 
-It is important to set this up as a community owned open source project, to follow open source ethos, and the ethos of amateur radio clubs and societies.
+It is important to structure this as a community-owned open source project, to follow open source ethos, and the ethos of amateur radio clubs.
 
 ## Project Maintainers ##
 
@@ -20,6 +20,15 @@ As an early adopter, you would be responsible for establishing your own mesh nod
 We would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. Much of the equipment required has already been purchased and will be distributed towards this end. 
 If you would like to host an infrastructre site on your property, your goal would be to ensure its reliable and consistent operation 365 days per year. It is not very complicated or time consuming to host an infrastructure node, the main requirements being height above ground and stable electrical power.
 
+## Future Plans ##
+
+Once a local reliable mesh network has been established, we might proceed to implement the following ideas:
+
+  - Mesh to mesh bridging over the Internet. For example to connect the Temagami mesh network to mesh networks in North Bay or New Liskeard
+  - Broadcasting sensor data, weather data, and weather reports. (i.e. Lake levels, water temperature, smoke particle levels, etc.)
+  - Possibly some sort of Internet Grafana dashboard based on the above data
+  - The addition of specialty chat groups and store and forward services: (fishing, canoe routes, camp chat, community news, emergency channel)
+    
 ## Six Pillars of the Amateur Radio Code ##
 
   - **Considerate:** You must never knowingly operate your node in a way that lessens the pleasure or interferes with the communications of others.
