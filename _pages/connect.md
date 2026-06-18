@@ -17,6 +17,8 @@ There are a multitude of options available in the $50 to $200 CAD price range on
 * For the best range, choose a device with a quality external antenna that can be upgraded.
 * Since lithium batteries should not be charged in sub-zero temperatures, nodes for winter use should be connected to an external power supply
 
+IMPORTANT: Do not turn on your radio without an antenna connected. Transmitting from a device with no antenna installed can damage the device.
+
 ## Configuring your Radio
 
 Documentation on how to configure your radio for different use cases are widely available online. To connect to the Lake Temagami Mesh, the following settings MUST be used:
@@ -43,5 +45,3 @@ If any aspect of this mission aligns with your organizational goals, please go a
 * Tracking the GPS location of your vehicles on https://meshmap.net/
 * Providing for the safety of remote workers or their customers
 * Monitoring water levels, temperatures, and equipment
-
-IMPORTANT: Do not turn on your radio without an antenna connected. Transmitting from a device with no antenna installed can damage the device.
