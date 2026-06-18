@@ -1,11 +1,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Connect"
+  - title: "Roadmap"
+    url: /roadmap/    
+  - title: "Get Connected"
     url: /connect/
   - title: "Resources"
     url: /resources/
-  - title: "Roadmap"
+  - title: "More Info"
     url: /roadmap/
-  - title: "Support"
+  - title: "Get Help"
     url: /support/
