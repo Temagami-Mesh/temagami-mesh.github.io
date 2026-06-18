@@ -2,6 +2,7 @@
 layout: single
 title: "First Permanent Infrastructure Node"
 date: 2026-06-17
+categories: posts
 ---
 
 This is the first infrastructure node and is located on my own property. Since I already have a reasonable four season power supply I chose not to build a solar node. 
