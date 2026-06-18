@@ -1,6 +1,6 @@
 ---
 permalink: /connect/
-title: "Connect"
+title: "Get Connected"
 ---
 
 ## Buying a Radio
