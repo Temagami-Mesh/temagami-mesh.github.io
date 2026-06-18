@@ -15,7 +15,7 @@ The project needs people with skills in electronics design, computer networking,
 
 As an early adopter, you would be responsible for establishing your own mesh node and making use of it to communicate with and assist others coming onto the network.
 
-## Infrastructe Sites ##
+## Infrastructer Sites ##
 
 We would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. Much of the equipment required has already been purchased and will be distributed towards this end. 
 If you would like to host an infrastructre site on your property, your goal would be to ensure its reliable and consistent operation 365 days per year. It is not very complicated or time consuming to host an infrastructure node, the main requirements being height above ground and stable electrical power.
