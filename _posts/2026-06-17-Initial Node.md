@@ -9,7 +9,9 @@ Amateur radio operators are allowed to transmit on this frequency band at up to 
 Although this node can transmit at a maximum estimated power of 2.3 watts, I have seen very little range improvement compared to a 1W radio. There are also a lot of legal grey areas operating meshtastic under an amateur radio license.
 A much more effective change was to raise the antenna 10 feet off the ground. So the primary lesson learned from this build is that antenna height matters much more than raw transmit and recieve power.
 
-## Hardware Used ##
+## Components Used ##
+
+![Image of Component Assembly]({{ "/assets/images/your-photo.jpg" | relative_url }})
 
 - [WisMesh 1W Booster Starter Kit High-power Meshtastic solution with nRF52840, SX1262, and SKY66122 PA for extended mesh range](https://www.aliexpress.com/item/1005010651127313.html?spm=a2g0o.order_list.order_list_main.10.3a351802KaH4IX)
 - [868Mhz 915Mhz 2.4Ghz 5.8Ghz Bidirectional Amplifier 2W RF Signal Booster FOR LORA Helium Miner UAV WiFi Drone Image Transmission](https://www.aliexpress.com/item/1005009625219917.html?spm=a2g0o.order_list.order_list_main.5.75fc1802PJgxG5)
