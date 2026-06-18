@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "First Permanent Infrastructure Node"
 date: 2026-06-17
 ---
