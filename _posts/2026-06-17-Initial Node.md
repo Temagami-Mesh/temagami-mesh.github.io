@@ -5,10 +5,14 @@ date: 2026-06-17
 categories: posts
 ---
 
-This is the first infrastructure node and is located on my own property. Since I already have a reasonable four season power supply I chose not to build a solar node. 
-Amateur radio operators are allowed to transmit on this frequency band at up to 10 watts, rather than the 1W limit for non-licensed individuals, I installed a bi-directional RF amplifier to boost the signal.
-Although this node can transmit at a maximum estimated power of 2.3 watts, I have seen very little range improvement compared to a 1W radio. There are also a lot of legal grey areas operating meshtastic under an amateur radio license.
-A much more effective change was to raise the antenna 10 feet off the ground. So the primary lesson learned from this build is that antenna height matters much more than raw transmit and recieve power.
+This is the infrastructure node that I am hosting on my own property. 
+
+## Design Considerations ##
+
+- A permanent infrastructure node that should run 24 hours a day, 365 days per year.
+- There is a reasonable power source nearby. 
+- A bi-directional RF amplifier to experiment with the effects of boosting the signal
+- Antenna height can be a maximum of 15' above water level, which is fairly low.
 
 ## Range Tests ##
 
@@ -16,9 +20,9 @@ A much more effective change was to raise the antenna 10 feet off the ground. So
 
 The range of the device was reliable to about 6.5 kms. From 6.5 to 12km the range was somewhat spotty. There is a radio shadow behind many of the larger islands, suggesting that nodes should be put on the shore that faces the other nodes that you are trying to reach.
 
-Doubling the output power of the transmitter increased the range by about 1km.
+Doubling the output power of the transmitter increased the range by about 1km, which was far less than I expected.
 
-These range test readings are for a cheap consumer grade handheld device at roughly hand height. A properly designed infrastructure node can be expected to have a range of 15-20kms. 
+These range test readings are for a consumer handheld device held by a person. A link between two well designed infrastructure nodes can probably expect to have a range of 15-20kms on the lake. I was able to get a strong signal at the access road landing using a larger infrastructure node. 
 
 ## Components Used ##
 
