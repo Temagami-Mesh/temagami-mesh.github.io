@@ -3,17 +3,6 @@ permalink: /resources/
 title: "Resources"
 ---
 
-## Configuring your Radio
-
-Documentation on how to configure your radio for different use cases are widely available online. To connect to the Lake Temagami Mesh, the following settings MUST be used:
-
-* Region: US (This sets the frequency to 915 Mhz)
-* Modem Preset: "LongFast"
-
-All other settings can be left at their default value or modified at your discretion.
-
-IMPORTANT: Do not turn on your radio without an antenna connected. Transmitting from a device with no antenna installed can damage the device.
-
 ## How to Extend the Range of Your Mesh
 
 A common configuration is to have a solar or battery powered "base station" node located in a high location somewhere on your property (on the roof of a building, in a large tree, on a pole on a hill). Your personal companion radio would then relay packets through your own base station to other nodes on the network.
