@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Temagami Mesh
+#title: Temagami Mesh
 description: >- # this means to ignore newlines until "baseurl:"
   Community mesh network for off-grid communication on Lake Temagami and surrounding areas.
 url: "https://temagami-mesh.github.io"
 baseurl: ""  # important for user/organization sites
-logo: "/assets/images/temagami-mesh-logo.jpg"
+
+#logo: "/assets/images/temagami-mesh-logo.jpg"
 minimal_mistakes_skin: dark
 search: true
 github_username: Temagami-Mesh
