@@ -17,7 +17,8 @@ There are a multitude of options available in the $50 to $200 CAD price range on
 * For the best range, choose a device with a quality external antenna or one that can be upgraded.
 * Since lithium batteries should not be charged in sub-zero temperatures, nodes for winter use should be connected to an external power supply
 
-IMPORTANT: Do not turn on your radio without an antenna connected. Transmitting from a device with no antenna installed can damage the device.{: .notice--warning}
+IMPORTANT: Do not turn on your radio without an antenna connected. Transmitting from a device with no antenna installed can damage the device.
+{: .notice--warning}
 
 ## Configuring your Radio
 
