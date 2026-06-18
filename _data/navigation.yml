@@ -5,6 +5,7 @@ main:
     url: /connect/
   - title: "Resources"
     url: /resources/
+  - title: "Roadmap"
+    url: /roadmap/
   - title: "Support"
     url: /support/
-  
