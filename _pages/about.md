@@ -27,6 +27,7 @@ If any aspect of this mission aligns with your organizational goals, please go a
 
 * Tracking the GPS location of your vehicle fleet
 * Providing for the safety of remote workers or your customers
+* Private encrypted channels for your organization with no ongoing fees or licensing requirements
 * Monitoring tank levels, temperatures, switch contacts, and other sensor data
 
 ## About This Project
