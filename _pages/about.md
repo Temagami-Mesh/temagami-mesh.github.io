@@ -27,9 +27,9 @@ If any aspect of this mission aligns with your organizational goals, please go a
 
 * Tracking the GPS location of your vehicle fleet
 * Providing for the safety of remote workers or your customers
-* Private encrypted channels for your organization with no ongoing fees or licensing requirements
-* Monitoring tank levels, temperatures, switch contacts, and other sensor data
+* Private encrypted channels for your organization or camp with no ongoing fees or licensing requirements
+* Remotely monitoring and controlling devices (tank levels, temperatures, switch contacts, and other sensor data) with no ongoing fees.
 
 ## About This Project
 
-This project provides a central repository of information of interest to meshtastic users on Lake Temagami area and a discussion forum where people can get technical assistance with their local mesh networking projects. There is no formal organization and we don't own any property. All contributions remain the property of and are the responsibility of their respective owners.
+This project provides a central repository of information of interest to meshtastic users on Lake Temagami area and a discussion forum where people can get technical assistance with their own local mesh networking projects. There is no formal organization and we don't own any property or sell any services. All contributions made remain the property of and are the responsibility of their respective owners.
