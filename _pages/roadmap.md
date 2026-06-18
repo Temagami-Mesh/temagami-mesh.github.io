@@ -13,7 +13,7 @@ The project needs people with skills in electronics design, computer networking,
 
 ## Early Adopters ##
 
-As an early adopter, you would be responsible for establishing your own mesh node and making use of it to communicate with and assist others coming onto the network.
+As an early adopter, you would be responsible for establishing your own mesh node despite a lack of activity and making use of it to communicate with and assist others coming onto the network.
 
 ## Infrastructure Sites ##
 
