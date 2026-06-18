@@ -37,11 +37,3 @@ If you own property or vehicles on or near Lake Temagami, you could consider hos
 * Tracker nodes contain GPS chips and can be installed in cars, boats, snowmobiles or carried on your person
 
 Please contact one of the project maintainers if you need help with this. A limited number of free nodes will be distributed to help establish this network.
-
-## Business Use Cases
-
-If any aspect of this mission aligns with your organizational goals, please go ahead and implement your own projects using the network. You don't need permission. Some example uses of how an organization might use the technology:
-
-* Tracking the GPS location of your vehicles on https://meshmap.net/
-* Providing for the safety of remote workers or their customers
-* Monitoring water levels, temperatures, and equipment
