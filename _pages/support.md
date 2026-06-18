@@ -3,9 +3,9 @@ permalink: /support/
 title: "Support"
 ---
 
-There is a [discussion group](https://github.com/orgs/Temagami-Meshtastic/discussions) where you can ask questions, post updates, and get support with your project.
+There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic/discussions) where you can ask technical questions, post updates, and get support with your projects. This is the place for more technical discussions.
 
-There is now a [facebook page](https://www.facebook.com/profile.php?id=61590702792189) for the project.
+There is a [Facebook Page](https://www.facebook.com/profile.php?id=61590702792189) for end-user discussions and to help foster the adoption of Mesh networking technology.
 
 ## Project Maintainers:
 
