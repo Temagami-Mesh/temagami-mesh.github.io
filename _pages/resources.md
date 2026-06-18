@@ -3,6 +3,12 @@ permalink: /resources/
 title: "Resources"
 ---
 
+## Technology Overview ##
+
+LoRa radio technology uses Chirp Spread Spectrum modulation to encode text data into "chirps". This scheme allows very weak digital radio signals to be successfully decoded well beyond the range of standard voice modulation techniques. The end result is that low speed text messages can be transmitted over very long distances using inexpensive low power devices. 
+
+Meshtastic is a mesh networking protocol that extends LoRa and allows these text messages to hop from node to node to extend the range of the system well beyond that of a single radio link. Meshtastic also provides a user-friendly cellphone app and other tools that make the system accessible and useful to the general public.
+
 ## How to Extend the Range of Your Mesh
 
 A common configuration is to have a solar or battery powered "base station" node located in a high location somewhere on your property (on the roof of a building, in a large tree, on a pole on a hill). Your personal companion radio would then relay packets through your own base station to other nodes on the network.
