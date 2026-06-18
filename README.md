@@ -1,1 +1,1 @@
-This website provides a central repository of information for Meshtastic and Meshcore network users on Lake Temagami and the surrounding region and a github discussion forum where people can share updates or ask questions.
+This website provides a central repository of information for Meshtastic and Meshcore network users on Lake Temagami and the surrounding region and a github discussion forum where people can share updates or ask questions. We also have a [facebook page](https://www.facebook.com/profile.php?id=61590702792189)
