@@ -34,4 +34,4 @@ If any aspect of this mission aligns with your organizational goals, please go a
 
 ## About This Project
 
-This project provides a central repository of information of interest to meshtastic users on Lake Temagami area and a discussion forum where people can get technical assistance with their own local mesh networking projects. There is no formal organization and we don't own any property or sell any services. All contributions made remain the property of and are the responsibility of their respective owners.
+This project provides a central repository of information of interest to meshtastic users in the Lake Temagami area and a discussion forum where people can get technical assistance with their own local mesh networking projects. There is no formal organization and we don't own any property or sell any services. All contributions made remain the property of and are the responsibility of their respective owners.
