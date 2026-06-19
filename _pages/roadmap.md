@@ -13,7 +13,7 @@ I have set up a github repository that hosts this website and a technical discus
 
 ## Early Adopters ##
 
-As an early adopter, you would be responsible for establishing your own mesh node and using it despite an initial lack of activity and making use of it to communicate with and assist others coming onto the network in a friendly and useful way. 
+As an early adopter, you would be responsible for establishing your own mesh node and using it despite an initial lack of activity. If this project is to be succeessful, people who are sold on the vision and mission of this project need to step up and be the first users of it. Your mission would involve keeping your radio on and making an effort to reach out to other potential new users on the network in a friendly and helpful way to encourage its adoption.
 
 ## Infrastructure Sites ##
 
