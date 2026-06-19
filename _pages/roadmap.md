@@ -17,9 +17,9 @@ As an early adopter, you would be responsible for establishing your own mesh nod
 
 ## Infrastructure Sites ##
 
-I would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. Much of the equipment required has already been purchased and will be distributed at now cost towards this end. 
+I would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. A limited amount of equipment has already been purchased and will be distributed at no cost towards this end. 
 
-If you would like to host an infrastructre site on your property, your goal would be to ensure its reliable and consistent operation 365 days per year. It is not very complicated or time consuming to host an infrastructure node and technical assistance is available.
+If you would like to host an infrastructre site on your property, your goal would be to ensure that nodes reliable and consistent operation 24 hours per day 365 days per year. It is not very complicated or time consuming to host an infrastructure node and technical assistance is available. The primary requirements for a successful infrastructure site is altitude and stable electrical power.  
 
 ## Future Plans ##
 
@@ -30,4 +30,4 @@ Once a local reliable mesh network has been established, we might proceed to imp
   - Possibly some sort of Internet Grafana dashboard based on the above data
   - The addition of specialty chat groups and store and forward services: (fishing, canoe routes, camp chat, community news, emergency channel)
     
-  - **Meritocracy & Open Governance:** Value and leadership within a project are earned through contributions and community consensus rather than op-down mandates.
+If you have any ideas you want to promote, please share them in the facebook page or on the GitHub discussion forum.
