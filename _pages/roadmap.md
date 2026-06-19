@@ -1,6 +1,11 @@
 ---
+title: "Project Roadmap"
 permalink: /roadmap/
-title: "Roadmap"
+excerpt: "We are looking for project maintainers, early adopters and people who own property who might be willing to host an infrastructure node site."
+header:
+  overlay_image: /assets/images/temagami-mesh-hero.jpg
+  overlay_filter: 0.35
+  caption: "Connecting Temagami through resilient mesh networking"
 ---
 
 We are looking for project maintainers, early adopters and people who own property who might be willing to host an infrastructure node or allow one to be hosted on it by others. This is a volunteer run not-for-profit endeavour. 
