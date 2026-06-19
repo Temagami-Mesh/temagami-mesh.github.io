@@ -1,7 +1,7 @@
 ---
 title: "How to Get Connected"
 permalink: /connect/
-excerpt: "A beginner friendly guide for new members who are thinking about purchasing their first companion radio"
+excerpt: "A beginner friendly guide for new meshtastic users who are purchasing their first companion radio"
 header:
   overlay_image: /assets/images/temagami-mesh-hero.jpg
   overlay_filter: 0.35
