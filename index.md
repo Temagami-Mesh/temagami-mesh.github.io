@@ -30,7 +30,7 @@ homepage_features:
     title: "Get Connected"
     excerpt: "Join our user community forums, review open source channels, and collaborate directly with our team."
     url: /connect/
-    btn_label: "New Users"
+    btn_label: "Connect"
     btn_class: "btn--success"
 ---
 
