@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Temagami Mesh"
-  avatar : "/assets/images/temagami-mesh-logo.jpg"
+  avatar : "/assets/images/temagami_mesh_logo.jpg"
   bio    : "Connecting the remote shores of Lake Temagami with LoRa mesh networking."
   links:
     - label: "GitHub Discussion Group"
