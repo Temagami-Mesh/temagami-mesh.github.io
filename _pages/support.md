@@ -1,6 +1,11 @@
 ---
+title: "Technical Support"
 permalink: /support/
-title: "Support"
+excerpt: "We provide a limited amount of technical support on a volunteer basis to help you launch your mesh networking project."
+header:
+  overlay_image: /assets/images/temagami-mesh-hero.jpg
+  overlay_filter: 0.35
+  caption: "Connecting Temagami through resilient mesh networking"
 ---
 
 There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic/discussions) where you can ask technical questions, post updates, and get support with your projects. This is the place for more technical discussions.
