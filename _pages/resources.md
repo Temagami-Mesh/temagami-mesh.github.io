@@ -3,7 +3,7 @@ title: "Additional Technical Resources"
 permalink: /resources/
 excerpt: "Some helpful tips and pointers to more information on meshtastic for more experienced meshtastic users"
 header:
-  overlay_image: /assets/images/temagami-mesh-hero.jpg
+  overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
   caption: "Connecting Temagami through resilient mesh networking"
 ---
