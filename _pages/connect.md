@@ -29,4 +29,4 @@ Documentation on how to configure your radio for different use cases are widely 
 
 All other settings can be left at their default value or modified at your discretion.
 
-Please contact one of the project maintainers if you need help with this. A limited number of free nodes will be distributed to help establish this network.
+Please contact one of the project maintainers if you need help with this. 
