@@ -1,6 +1,4 @@
 main:
-  - title: "Latest"
-    url: /
   - title: "About"
     url: /about/
   - title: "Roadmap"
