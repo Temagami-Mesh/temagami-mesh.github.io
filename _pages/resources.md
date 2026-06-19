@@ -5,9 +5,9 @@ title: "Resources"
 
 ## Technology Overview ##
 
-LoRa radio technology uses [Chirp Spread Spectrum modulation](https://www.youtube.com/watch?v=dxYY097QNs0){:target="_blank"} to encode text data into "chirps". This scheme allows very weak digital radio signals to be successfully decoded well beyond the range of standard voice modulation techniques. The end result is that small digital messages can be transmitted over very long distances using inexpensive low power devices. 
+LoRa radio technology uses [Chirp Spread Spectrum modulation](https://www.youtube.com/watch?v=dxYY097QNs0){:target="_blank"} to encode digital data into "chirps". This scheme allows very weak digital radio signals to be successfully decoded well beyond the range of standard voice modulation techniques. The end result is that short text messages can be transmitted over very long distances using inexpensive low power devices. 
 
-Meshtastic is a mesh networking protocol that extends LoRa and allows these text messages to hop from node to node to extend the range of the system well beyond that of a single radio link. Meshtastic also provides a user-friendly cellphone app and other tools that make the system accessible and useful to the general public.
+Meshtastic is a mesh networking protocol that extends LoRa to allow these text messages to hop from node to node to extend the range of the system well beyond that of a single radio link. Meshtastic also provides a user-friendly cellphone app and other tools that make the system accessible and useful to the general public.
 
 ## How to Extend the Range of Your Mesh
 
@@ -33,16 +33,19 @@ It is possible to buy or build meshtastic nodes that can broadcast data from var
 - Environment Canada weather alerts
 - Any sort of switch or logic state
 - Motion or human presence sensors
+- Gate control or switch control
 
-A channel has been allocated for weather station and sensor broadcasts
+A publicly accessible channel has been allocated for weather station and sensor broadcasts. Or set up your own private channel for your own use.
 
 ## Channels
 
-The technology provides for up to 8 channels or chatrooms that can be encrypted for privacy. You can create your own private channels for your camp, cottage, family, or business. Only people who have the pre-shared key for your channel will be able to access it. Other nodes on the mesh will then help forward your encrypted packets to their intended recipients provided they share the same radio settings (Longfast preset and US/Canada frequencies). 
+The technology provides for up to 8 channels or chatrooms that can be encrypted for privacy to be used at any one time. You can create your own private channels for your camp, cottage, family, or business. Only people who have the pre-shared key for your channel will be able to access it. Other nodes on the mesh will then help forward your encrypted packets to their intended recipients provided they share the same radio settings (Longfast preset and US/Canada frequencies). 
 
 The two predefined public channels for the area are:  
 
 | No. | Name      | Pre-shared key | Purpose |
 | :-: | --------- | -------------- | ------- |
 | 1   | Longfast  | AQ==           | Default public channel |
-| 2   | Weather   | Rg==           | Automated Weather Broadcasts |
+| 2   | Weather   | Rg==           | Automated Weather Sensor Broadcasts |
+
+More publicly accessible predefined channels can be created as needed.
