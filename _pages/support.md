@@ -17,5 +17,5 @@ There is a [Facebook Page](https://www.facebook.com/profile.php?id=6159070279218
 A limited amount of technical assistance and hardware for this mesh networking project is being provided on a voluntary basis by:
 
 *[Bond Keevil](mailto:support@bondkeevil.ca)* 
-- Amateur Radio Operator Callsigns VA3HBK and VE3TLV
+- Amateur Radio Operator Callsigns [VA3HBK](https://www.qrz.com/db/VA3HBK) and [VE3TLV](https://www.qrz.com/edit/VE3TLV)
 - CompTIA certified computer and network technician
