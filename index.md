@@ -18,19 +18,19 @@ homepage_features:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/temagami_mesh_roadmap.jpg
-    alt: "Project Roadmap"
-    title: "Project Roadmap"
-    excerpt: "Track historical milestones, immediate development phases, and upcoming system updates planned for release."
-    url: /roadmap/
-    btn_label: "Project Roadmap"
+    alt: "Get Connected"
+    title: "Get Connected"
+    excerpt: "Learn how to purchase your first radio and get connected to this off-grid communication network"
+    url: /connect/
+    btn_label: "Connect"
     btn_class: "btn--info"
 
   - image_path: /assets/images/temagami_mesh_connect.jpg
-    alt: "Get Connected"
-    title: "Get Connected"
+    alt: "Get Help"
+    title: "Get Help"
     excerpt: "Join our user community forums, review open source channels, and collaborate directly with our team."
-    url: /connect/
-    btn_label: "Connect"
+    url: /support/
+    btn_label: "More Help"
     btn_class: "btn--success"
 ---
 
