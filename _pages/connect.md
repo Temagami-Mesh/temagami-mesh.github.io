@@ -14,6 +14,8 @@ To connect to the mesh, you will need a personal meshtastic radio, called a "com
 
 There are a multitude of options available in the $50 to $200 CAD price range on websites like Amazon. Popular vendors include [Elecrow](https://www.elecrow.com/meshtastic.html), [RAK Wireless](https://store.rakwireless.com/collections/meshtastic), [Rockland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo?srsltid=AfmBOorPQbvCZxGJdaE7NkHXq8WXAthKINd0iNje8IXi9QIGBaBSHeWJ), and [Heltec](https://heltec.org/product-category/lora/meshtastic/).
 
+{% include video id="VGiNDgdkyhs" provider="youtube" %}
+
 **Tips when choosing:**
 
 * Always pick the correct **frequency band** for your region (915 MHz for North America).
