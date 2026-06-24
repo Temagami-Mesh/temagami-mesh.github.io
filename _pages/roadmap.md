@@ -25,7 +25,7 @@ As an early adopter, you would be responsible for establishing your own mesh nod
 
 I would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. A limited amount of equipment has already been purchased and will be distributed at no cost towards this end. 
 
-If you would like to host an infrastructre site on your property, your goal would be to ensure that nodes reliable and consistent operation 24 hours per day 365 days per year. It is not very complicated or time consuming to host an infrastructure node and technical assistance is available. The primary requirements for a successful infrastructure site is altitude and stable electrical power.  
+If you would like to host an infrastructre site on your property, your goal would be to ensure that nodes reliable and consistent operation 24 hours per day 365 days per year. It is not very complicated or time consuming to host an infrastructure node and technical assistance is available. The primary requirements for a successful infrastructure site are altitude and consistent electrical power.  
 
 ## Future Plans ##
 
