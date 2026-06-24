@@ -31,9 +31,9 @@ If you would like to host an infrastructre site on your property, your goal woul
 
 Once a local reliable mesh network has been established, we might proceed to implement the following ideas:
 
-  - Mesh to mesh bridging over the Internet. For example to connect the Temagami mesh network to mesh networks in North Bay or New Liskeard
+  - Mesh to mesh bridging over the Internet. For example to connect the Temagami mesh network to mesh networks in North Bay, Sudbury and New Liskeard
   - Broadcasting sensor data, weather data, and weather reports. (i.e. Lake levels, water temperature, smoke particle levels, etc.)
-  - Possibly some sort of Internet Grafana dashboard based on the above data
+  - Possibly some sort of Internet dashboard (Grafana) based on the above data
   - The addition of specialty chat groups and store and forward services: (fishing, canoe routes, camp chat, community news, emergency channel)
     
 If you have any ideas you want to promote, please share them in the facebook page or on the GitHub discussion forum.
