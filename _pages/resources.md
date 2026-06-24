@@ -24,11 +24,11 @@ You should ensure that your antenna is designed for the 915Mhz frequency band an
 
 ## Vehicle Tracking Use Case
 
-It is common to install GPS enabled meshtastic nodes in vehicles of various sorts for use as asset trackers. Most commercially available radios take a USB-C cable as a power source and have an on/off switch to disable the GPS tracking features. Once installed, the radio can be configured to forward the position reports to the Internet where others can view the location though websites like https://meshmap.net
+It is common to install GPS enabled meshtastic nodes in vehicles of various sorts for use as asset trackers. Most commercially available radios take a USB-C cable as a power source and have an on/off switch to disable the GPS tracking features. Once installed, you can view the location of the tracker on your cellphone app or the radio can be configured to forward position reports to the Internet where others can view the location though websites like https://meshmap.net
 
 ## Environmental Sensor Data
 
-It is possible to buy or build meshtastic nodes that can broadcast data from various sensors to the network:
+It is possible to buy or build meshtastic nodes that can broadcast data from various sensors to the network, or to monitor or control switches and relays:
 
 - Temperature/Humidity Sensors
 - Lake Level/Temperature Sensors
@@ -38,8 +38,9 @@ It is possible to buy or build meshtastic nodes that can broadcast data from var
 - Environment Canada weather alerts
 - Any sort of switch or logic state
 - Motion or human presence sensors
-- Gate control or switch control
-
+- Gate control
+- Controlling IOT devices
+  
 A publicly accessible channel has been allocated for weather station and sensor broadcasts. Or set up your own private channel for your own use.
 
 ## Channels
@@ -54,3 +55,5 @@ The two predefined public channels for the area are:
 | 2   | Weather   | Rg==           | Automated Weather Sensor Broadcasts |
 
 More publicly accessible predefined channels can be created as needed.
+
+
