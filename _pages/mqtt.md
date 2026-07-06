@@ -19,13 +19,13 @@ The MQTT Internet protocol is used by Meshtastic devices to enable messages and 
 
 Under "Radio Configuration" go to the "LoRa" tab and ensure "OK To MQTT" is turned on and "Ignore MQTT" is turned off. These settings explicitly allow or disallow MQTT bridging globally for all channels.
 
-![MQTT Radio Settings](/assets/mqtt-radio-settings-lora.png)
+![MQTT Radio Settings](/assets/images/mqtt-radio-settings-lora.png)
 
 ## Per Channel MQTT Configuration ##
 
 It is possible to enable or disable MQTT bridging for specific channels. Under "Radio Configuration" go to the "Channels" tab and turn on "Uplink enabled" and "Downlink enabled" for any channels you have configured that you want to bridge. You can also choose whether to enable position reporting on each particular channel and how accurately to report the position. In the example below, we are enabling MQTT bridging on the default public channel which is called "LongFast".
 
-![MQTT Radio Settings](/assets/mqtt-radio-settings-channels.png)
+![MQTT Radio Settings](/assets/images/mqtt-radio-settings-channels.png)
 
 ## MQTT Module Configuration ##
 
@@ -35,7 +35,7 @@ We use the default username of "meshdev" and password of "large4cats" to log in 
 
 Turning on "JSON enabled" will make it easier in the future to develop apps like maps and dashboards using data from the mesh. But it can also be left off, which is the default value.
 
-![MQTT Module Settings](/assets/mqtt-module-settings-enabled.png)
+![MQTT Module Settings](/assets/images/mqtt-module-settings-enabled.png)
 
 It is important to set the "Root Topic" to "msh/CA/ON/Temagami" to connect to the Temagami area mesh. Other options that are suggested by other online setup guides include "msh/US" in the US and "msh/CA" or "msh/CA/ON" in Canada. Since the purpose of this project is to create a regional mesh for the Lake Temagami area, we have opted for the more specific regional root topic of "msh/CA/ON/Temagami".
 
@@ -45,7 +45,7 @@ Turning on "MQTT Proxy Enabled" will let your companion radio use the bluetooth 
 
 Turning on "Map Reporting Enabled" will forward additional information about your node to Internet web services such as https://meshmap.net/
 
-![MQTT Module Settings](/assets/mqtt-module-settings-topic.png)
+![MQTT Module Settings](/assets/images/mqtt-module-settings-topic.png)
 
 ## Neighbour Info Module ##
 
