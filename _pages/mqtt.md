@@ -47,6 +47,3 @@ Turning on "Map Reporting Enabled" will forward additional information about you
 
 ![MQTT Module Settings](/assets/images/mqtt-module-settings-topic.png)
 
-## Neighbour Info Module ##
-
-You may want to consider enabling the Neighbour Info module, which forwards information about which nodes your node can here to the Internet using MQTT so that a connection graph can be displayed of the local mesh. This is for a future planned feature and AFAIK this connection graph app does not yet exist.
