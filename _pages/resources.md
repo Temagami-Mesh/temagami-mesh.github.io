@@ -26,7 +26,7 @@ You should ensure that your antenna is designed for the 915Mhz frequency band an
 
 MQTT Bridging allows you to connect to the Temagami meshtastic network from outside of its service area using the Internet. We also use it for bridging mesh segments within the service area that cannot be directly connected by RF signals.
 
-For more information, view the [MQTT How To Page](https://temagami-mesh.github.io/mqtt)
+For more information, view the [MQTT How To Page](/mqtt)
 
 ## Vehicle Tracking Use Case
 
