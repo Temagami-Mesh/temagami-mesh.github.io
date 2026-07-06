@@ -22,6 +22,12 @@ The key to long range with LoRa radios is to place the antenna as high as possib
 
 You should ensure that your antenna is designed for the 915Mhz frequency band and is a high gain antenna design. The short stubby antennas that come with most radios are compromise antennas and should be replaced with a quality antenna if you need to improve your range.
 
+## MQTT Bridging ##
+
+MQTT Bridging allows you to connect to the Temagami meshtastic network from outside of its service area using the Internet. We also use it for bridging mesh segments within the service area that cannot be directly connected by RF signals.
+
+For more information, view the [MQTT How To Page](https://temagami-mesh.github.io/mqtt)
+
 ## Vehicle Tracking Use Case
 
 It is common to install GPS enabled meshtastic nodes in vehicles of various sorts for use as asset trackers. Most commercially available radios take a USB-C cable as a power source and have an on/off switch to disable the GPS tracking features. Once installed, you can view the location of the tracker on your cellphone app or the radio can be configured to forward position reports to the Internet where others can view the location though websites like https://meshmap.net
