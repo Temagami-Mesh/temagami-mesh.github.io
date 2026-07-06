@@ -31,8 +31,22 @@ It is possible to enable or disable MQTT bridging for specific channels. Under "
 
 You need to enable the MQTT module by going to the "Module Config" page and selecting the "MQTT" tab. Ensure that "Enabled" is turned on. All other settings are left at their default values.
 
+We use the default username of "meshdev" and password of "large4cats" to log in to the default mqtt server provided by the Meshtastic community.
+
 Turning on "JSON enabled" will make it easier in the future to develop apps like maps and dashboards using data from the mesh. But it can also be left off, which is the default value.
 
 ![MQTT Module Settings](/assets/mqtt-module-settings-enabled.png)
 
+It is important to set the "Root Topic" to "msh/CA/ON/Temagami" to connect to the Temagami area mesh. Other options that are suggested by other online setup guides include "msh/US" in the US and "msh/CA" or "msh/CA/ON" in Canada. Since the purpose of this project is to create a regional mesh for the Lake Temagami area, we have opted for the more specific regional root topic of "msh/CA/ON/Temagami".
 
+In an emergency situation where you need help and are unable to connect to someone locally, changing your root topic to "msh/CA" will enable you to broadcast your emergency message Canada wide.
+
+Turning on "MQTT Proxy Enabled" will let your companion radio use the bluetooth connection of your phone to connect to the Internet to send and recieve MQTT packets.
+
+Turning on "Map Reporting Enabled" will forward additional information about your node to Internet web services such as https://meshmap.net/
+
+![MQTT Module Settings](/assets/mqtt-module-settings-topic.png)
+
+## Neighbour Info Module ##
+
+You may want to consider enabling the Neighbour Info module, which forwards information about which nodes your node can here to the Internet using MQTT so that a connection graph can be displayed of the local mesh. This is for a future planned feature and AFAIK this connection graph app does not yet exist.
