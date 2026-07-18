@@ -8,6 +8,8 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
+UNDER DEVELOPMENT: These MQTT features are under active development and testing and will likely change. MQTT is not ready to be implemented. {: .notice--warning}
+
 ## MQTT Bridging ##
 
 The MQTT Internet protocol is used by Meshtastic devices to enable messages and other data packets to be bridged between different meshes that are not within RF range of each other. There are two anticipated use cases for this feature:
