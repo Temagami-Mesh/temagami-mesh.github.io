@@ -57,8 +57,8 @@ The two predefined public channels for the area are:
 
 | No. | Name      | Pre-shared key | Purpose |
 | :-: | --------- | -------------- | ------- |
-| 1   | Longfast  | AQ==           | Default public channel |
-| 2   | Weather   | Rg==           | Automated Weather Sensor Broadcasts |
+| 1   | LongFast  | AQ==           | Default public channel |
+| 2   | Weather   | Ag==           | Automated Weather Sensor Broadcasts |
 
 More publicly accessible predefined channels can be created as needed.
 
