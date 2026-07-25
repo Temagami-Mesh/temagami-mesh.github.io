@@ -8,8 +8,8 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-This is a volunteer run not-for-profit endeavour.
-{: .notice--information }
+This is a volunteer run not-for-profit endeavour. We are not affiliated with or funded by any other local organization.
+{: .notice--info }
 
 ## Project Maintainers ##
 
@@ -26,6 +26,12 @@ As an early adopter, you would be responsible for establishing your own mesh nod
 I would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. A limited amount of equipment has already been purchased and will be distributed at no cost towards this end. 
 
 If you would like to host an infrastructure site on your property, your goal would be to ensure that nodes reliable and consistent operation 24 hours per day 365 days per year. It is not very complicated or time consuming to host an infrastructure node and technical assistance is available. The primary requirements for a successful infrastructure site are altitude and consistent electrical power.  
+
+## Donations ##
+
+You can support this project with a voluntary financial contribution. We don't have a formal organization or bank account so contributions should be made directly to the individual team members whom you wish to support. To make such arrangements, please contact them directly.
+
+The costs for building and deploying a node range anywhere from $140 to $500 depending on a variety of factors. As a general rule we only fund community owned infrastructure nodes. Individuals wishing to join and make use of the network are responsbile for the purchase of their own personal companion radios. 
 
 ## Future Plans ##
 
