@@ -31,7 +31,7 @@ If you would like to host an infrastructure site on your property, your goal wou
 
 You can support this project with a voluntary financial contribution. We don't have a formal organization or bank account so contributions should be made directly to the individual team members whom you wish to support. To make such arrangements, please contact them directly.
 
-The costs for building and deploying a node range anywhere from $140 to $500 depending on a variety of factors. As a general rule we only fund community owned infrastructure nodes. Individuals wishing to join and make use of the network are responsbile for the purchase of their own personal companion radios. 
+The costs for building and deploying a node range anywhere from $150 to $400 depending on a variety of factors. As a general rule we only fund community owned infrastructure nodes. Individuals wishing to join and make use of the network are responsbile for the purchase of their own personal companion radios. 
 
 ## Future Plans ##
 
