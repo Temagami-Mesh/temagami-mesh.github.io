@@ -69,9 +69,7 @@ The Temagami Mesh Project is proudly built on the excellent open-source [Meshtas
 
 ---
 
-*These principles were adopted to help our community thrive as it grows. They reflect our values as off-grid lake residents, makers, radio enthusiasts, and neighbours who believe resilient communication should be open, collaborative, and accessible to all.*
-
 **Questions or suggestions?** Open an issue on our GitHub repository or reach out in the community group.
 
 ---
-*Last updated: June 2026*
+*Last updated: August 2026*
