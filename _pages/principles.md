@@ -19,10 +19,10 @@ We treat this as both a technical project *and* a community of practice — part
 ## Our 10 Guiding Principles
 
 ### 1. Embrace Open Source & Transparency
-Everything we create — firmware tweaks, node configurations, documentation, KML maps, integration code, weather bots, or hardware guides — is released openly. We use permissive licenses (MIT, GPL, CC-BY-SA) as appropriate and give clear credit to contributors. Parallel complimentary projects are welcome; coordination on core local compatibility is encouraged.
+Everything we create — hardware designs, documentation, maps, integration code, weather bots, or hardware guides — is released openly. We use permissive licenses (MIT, GPL, CC-BY-SA) as appropriate and give clear credit to contributors. Parallel complimentary projects are welcome; coordination on core local compatibility is encouraged.
 
 ### 2. Actively Support Experimentation & Building
-We explicitly celebrate and encourage members who want to tinker, prototype, and innovate. Custom antennas, solar-powered routers, sensor integrations, LoRa experiments, or Meshtastic + amateur radio cross-band setups are all valued. Share your builds, failures, and discoveries — this is how the network and our individual skills advance.
+We explicitly celebrate and encourage members who want to tinker, prototype, and innovate. Custom antennas, solar-powered routers, sensor integrations, LoRa experiments, or amateur radio cross-band setups are all valued. Share your builds, failures, and discoveries — this is how the network and our individual skills advance.
 
 ### 3. Uphold the Amateur Radio Spirit
 Even though much of our activity uses licence-free ISM/LoRa bands, we operate in the spirit of the classic Amateur Radio Code:
