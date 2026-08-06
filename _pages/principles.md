@@ -1,7 +1,7 @@
 ---
 title: "Community Principles & Code of Conduct"
 permalink: /principles/
-excerpt: "Guiding principles for the Temagami Mesh community — blending open-source values, amateur radio traditions, and practical innovation for our remote lake setting."
+excerpt: "Guiding principles for the Temagami Mesh Project — blending open-source values, amateur radio traditions, and practical innovation for our remote lake setting."
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
