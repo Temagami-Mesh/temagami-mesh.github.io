@@ -1,7 +1,7 @@
 ---
 title: "About This Project"
 permalink: /about/
-excerpt: "Mesh radio technology is designed for remote off-grid networking and provides clear benefits for permanent residents, first nations, cottagers, and the town"
+excerpt: "Mesh radio technology provides extremely low cost remote off-grid communications to otherwise unserviceable areas"
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
