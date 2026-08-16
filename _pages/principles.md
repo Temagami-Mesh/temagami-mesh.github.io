@@ -10,9 +10,9 @@ header:
 
 # Community Principles & Code of Conduct
 
-As the Temagami Mesh project grows, we want to ensure our community remains welcoming, collaborative, and focused on what matters most: building a reliable, open, and useful off-grid communication network for the Lake Temagami area.
+As the Temagami Regional Mesh grows, we want to ensure our community remains welcoming, collaborative, and focused on what matters most: building a reliable, open, and useful off-grid communication network for the Temagami region.
 
-These 10 principles guide our activities, decisions, and interactions. They draw from open-source best practices, the spirit of the Amateur Radio Code, and the practical needs of a remote Northern Ontario lake community. They are intended to reduce friction, encourage experimentation, and keep the project sustainable and enjoyable.
+These 10 principles guide our activities, decisions, and interactions. They draw from open-source best practices, the spirit of the Amateur Radio Code, and the practical needs of a remote Northern Ontario community. They are intended to reduce friction, encourage experimentation, and keep the project sustainable and enjoyable.
 
 We treat this as both a technical project *and* a community of practice — part mesh network, part amateur radio club, part neighbourhood resilience initiative.
 
@@ -32,7 +32,7 @@ Even though much of our activity uses licence-free ISM/LoRa bands, we operate in
 We strive for technical excellence, patient mentoring of newcomers, and operating practices that improve the experience for everyone sharing the spectrum and the mesh.
 
 ### 4. Prioritize Local Community Benefit & Resilience
-The primary purpose of the Temagami Mesh Project is to serve the people who live, cottage, work, and visit on and around Lake Temagami. We prioritize emergency preparedness, reliable communications during outages or storms, and practical day-to-day uses that make island and remote life safer and more connected.
+The primary purpose of the Temagami Regional Mesh is to serve the people who live, cottage, work, and visit on and around Lake Temagami. We prioritize emergency preparedness, reliable communications during outages or storms, and practical day-to-day uses that make island and remote life safer and more connected.
 
 ### 5. Be Genuinely Inclusive & Accessible
 We welcome participants of every skill level — from complete beginners who just want a simple node to experienced radio amateurs and tinkerers. No gatekeeping, no condescension. We provide beginner-friendly onboarding, clear documentation, and patient answers. 
@@ -65,7 +65,7 @@ We assume good intent. When conflicts or differing opinions arise (technical cho
 
 ## Built on Open Source Foundations
 
-The Temagami Mesh Project is proudly built on the excellent open-source [Meshtastic](https://meshtastic.org) firmware, apps, and ecosystem. We contribute back where we can and encourage all members to support the upstream projects as well.
+The Temagami Regional Mesh is proudly built on the excellent open-source [Meshtastic](https://meshtastic.org) firmware, apps, and ecosystem. We contribute back where we can and encourage all members to support the upstream projects as well.
 
 ---
 
