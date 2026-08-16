@@ -14,11 +14,11 @@ We aim to provide an extremely cost effective and very basic text-only digital r
 
 ## What This Project is Not
 
-The Temagami Regional Mesh is not a replacement for your cellphone, satellite or Internet service. We are providing a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send texts, waypoints, and sensor information this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
+The Temagami Regional Mesh is not a replacement for your cellphone, satellite or Internet service. We are providing a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send text messages and position data, this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
 
 ## Distributed Ownership
 
-There is no single owner of the mesh. There is no way to control access to or exclude anyone from using the mesh. As such it can never be operated as a subscription based service on a for-profit basis. Anyone can purchase or build a mesh node from readily available parts and join the mesh. There are no permissions required or licenses to be obtained to access the mesh.  
+There is no single owner of the mesh. There is no way to control access to or exclude anyone from using the mesh. As such it can never be operated as a subscription based service on a for-profit basis. Anyone can purchase or build a mesh node from readily available parts and join the mesh. There are no permissions required or licenses that need to be obtained.
 
 ## Environmental Impacts
 
@@ -28,7 +28,7 @@ By deploying this network, we are reducing the demand for large cellular towers 
 
 ## What is Meshtastic?
 
-Meshtastic is an open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages, GPS positions, and sensor data from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
+Meshtastic is an open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages and GPS positions from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
 
 {% include video id="oAo2sb8LpFc" provider="youtube" %}
 
@@ -41,7 +41,7 @@ On a lake area with poor or no cell coverage, Meshtastic nodes placed in homes, 
 - Boat-to-shore and shore-to-shore communication across open water
 - Communication between group members and for remote worker safety
 - GPS location sharing for safety on the water, trails, canoe routes and snowmobile trails
-- Environmental sensor (weather, water level, temperature) reporting over the same network
+- Weather reporting over the same network
 - No ongoing cost and extremely low power draw (solar or battery friendly)
 
 Because each node acts as a relay, the network becomes stronger as more people participate. Approximately 20 well-placed “router” nodes on high ground or tall trees can cover the entire lake, providing a resilient, community-owned communications layer that continues working when conventional networks fail.
