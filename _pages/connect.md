@@ -19,6 +19,8 @@ There are a multitude of options available in the $50 to $200 CAD price range on
 **Tips when choosing:**
 
 * Always pick the correct **frequency band** for your region (915 MHz for North America).
+* Ensure your device has an off switch, not all of them do.
+* Devices with an ePaper display are better for outdoor use; OLED displays can be difficult to read in full sun.
 * Boards with **built-in GPS** help with location sharing in a mesh but should have a switch to turn off GPS tracking.
 * Some devices include displays or buttons for easier standalone use; others are “headless” and managed via your phone app.
 * For the best range, choose a device with a quality external antenna or one that can be upgraded.
@@ -29,7 +31,7 @@ IMPORTANT: Do not turn on your radio without an antenna connected. Transmitting 
 
 ## Configuring your Radio
 
-Documentation on how to configure your radio for different use cases are widely available online. To connect to the Lake Temagami Mesh, the following settings MUST be used:
+Documentation on how to configure your radio for different use cases are widely available online. To connect to the Temagami Regional Mesh, the following settings MUST be used:
 
 * Region: US (This sets the frequency to 915 Mhz)
 * Modem Preset: "LongFast"
