@@ -26,8 +26,6 @@ You should ensure that your antenna is designed for the 915Mhz frequency band an
 
 MQTT Bridging allows you to connect to the Temagami meshtastic network from outside of its service area using the Internet. We also use it for bridging mesh segments within the service area that cannot be directly connected by RF signals.
 
-For more information, view the [MQTT How To Page](/mqtt)
-
 ## Vehicle Tracking Use Case
 
 It is common to install GPS enabled meshtastic nodes in vehicles of various sorts for use as asset trackers. Most commercially available radios take a USB-C cable as a power source and have an on/off switch to disable the GPS tracking features. Once installed, you can view the location of the tracker on your cellphone app or the radio can be configured to forward position reports to the Internet where others can view the location though websites like https://meshmap.net
