@@ -14,7 +14,7 @@ We aim to provide an extremely cost effective and very basic text-only digital r
 
 ## What This Project is Not
 
-The Temagami Regional Mesh is not a replacement for your cellphone, satellite or Internet service. We are providing a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send text messages and position data, this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
+The Temagami regional mesh is not a replacement for your cellphone, satellite or Internet service. We are providing a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send text messages and position data, this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
 
 ## Distributed Ownership
 
