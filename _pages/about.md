@@ -8,6 +8,21 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
+## The Goal of This Project
+
+We aim to provide an extremely cost effective and very basic text-only digital radio service that is reliably accessible from all areas of the lake, neighbouring lakes that have some degree of human occupation, and popular canoe routes and wilderness destinations. Our focus is on providing a bare minimum level of service to areas where it is not economically feasible for commercial providers to offer services.
+
+## What This Project is Not
+
+The Temagami Regional Mesh is not a replacement for your cellphone, satellite or Internet service. We are providing a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send texts, waypoints, and sensor information this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
+
+## Environmental Impacts
+
+We deploy and maintain a network of inexpensive infrastructure nodes in high points around the lake to provide this service. These are very small battery and solar powered devices that are unobtrusive and can't be seen unless you are very close to them. They transmit in the UHF band of the spectrum at very low power levels of 1 watt or less, which is far below the power levels required to create any adverse health effects.
+
+By deploying this network, we are reducing the demand for large cellular towers in unmarketable and unserviceable areas that would otherwise require enormous 
+government subsidies to exist.
+
 ## What is Meshtastic?
 
 Meshtastic is an open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages, GPS positions, and sensor data from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
