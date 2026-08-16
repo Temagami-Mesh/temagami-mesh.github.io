@@ -16,7 +16,7 @@ There is a [Facebook Page](https://www.facebook.com/profile.php?id=6159070279218
 
 A limited amount of technical assistance and hardware for this mesh networking project is being provided on a voluntary basis by:
 
-*[Darcy Fortin](mailto:support@bondkeevil.ca)*
+*[Darcy Fortin](mailto:primus66@hotmail.com)*
 - Temagami First Nations Guardian
 - Node Deployment Coordinator
 
