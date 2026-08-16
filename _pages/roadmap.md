@@ -1,45 +1,38 @@
 ---
 title: "Project Roadmap"
 permalink: /roadmap/
-excerpt: "We are looking for project maintainers, early adopters and people who own property who might be willing to host an infrastructure node site."
+excerpt: "We are uncovering the requirements for a large scale long term mesh deployment in the region"
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-This is a volunteer run not-for-profit endeavour. We are not affiliated with or funded by any other local organization.
-{: .notice--info }
+This is a volunteer run not-for-profit endeavour that is funded entirely by voluntary contributions. We are not affiliated with or funded by any other local organization.{: .notice--info }
 
-## Project Maintainers ##
+## Feasibility Assessment ##
 
-We need people with skills in electronics design, computer networking, IT, and radio technology to become project maintainers. This would involve building and deploying nodes for infrastructure sites and other people at your own discretion and without supervision. 
+During the summer of 2026 we designed and deployed six test nodes of various hardware designs to study and narrow down our hardware requirements. We performed range tests and successfully transmitted a packet 56 km between Maple Mountain and High Rock to demonstrate the potential of the technology. And we installed our first couple of node sites to see how much work it would require to prepare a node site. The outcome of this feasibility assessment yielded the following key findings:
 
-I have set up a github repository that hosts this website and a technical discussion forum for project maintainers to share information. If you want to become a project maintainer, the place to start would be joining the github repository and requesting access.
+1. That to accomplish our goals, we will need to deploy approximately 20 solar powered nodes on high structures and hilltops in the region.
+2. The cost to deploy a node is $250, requires 30 minutes to assemble and 3 hours to install. It would require approximately 2 hours to remove or repair an already deployed node.
+3. That the total cost to implement this regional network is approximately $5000, assuming all volunteer labor and zero government impediments.
+4. That it would not be possible to do this project using only private property as nearly all private property is at low altitudes.
 
-## Early Adopters ##
+We also developed a standardized node design that:
 
-As an early adopter, you would be responsible for establishing your own mesh node and using it despite an initial lack of activity. If this project is to be succeessful, people who are sold on the vision and mission of this project need to step up and be the first users of it. Your mission would involve keeping your radio on and making an effort to reach out to other potential new users on the network in a friendly and helpful way to encourage its adoption.
+1. Is easy to deploy and manage
+2. Runs on solar power and batteries
+3. Is power efficient, has sufficient electrical protections, and has a well designed RF front end
+4. That is robust enough to potentially survive being left in harsh remote locations for years of unattended operation
 
-## Infrastructure Sites ##
+## Demonstration Deployment ##
 
-I would like to see at least three reliable and high quality infrastructure nodes established in the area by the end of 2026. A limited amount of equipment has already been purchased and will be distributed at no cost towards this end. 
+Our intention is to deploy 10 identical nodes over the winter as a temporary deployment that will last no longer than 12 months. The purpose of this temporary deployment is to:
 
-If you would like to host an infrastructure site on your property, your goal would be to ensure that nodes reliable and consistent operation 24 hours per day 365 days per year. It is not very complicated or time consuming to host an infrastructure node and technical assistance is available. The primary requirements for a successful infrastructure site are altitude and consistent electrical power.  
+1. Validate the cold weather performance and reliability of our node configuration, and to improve that design.
+2. Discover the operational requirements of a long term mesh network deployment.
+3. To discover public reactions, complaints, and adverse consequences caused by the network.
+4. To ensure the project can remain viable while facing competing land claims, government red tape and bureaucracy.
 
-## Donations ##
-
-You can support this project with a voluntary financial contribution. We don't have a formal organization or bank account so contributions should be made directly to the individual team members whom you wish to support. To make such arrangements, please contact them directly.
-
-The costs for building and deploying a node range anywhere from $150 to $400 depending on a variety of factors. As a general rule we only fund community owned infrastructure nodes. Individuals wishing to join and make use of the network are responsbile for the purchase of their own personal companion radios. 
-
-## Future Plans ##
-
-Once a local reliable mesh network has been established, we might proceed to implement the following ideas:
-
-  - Mesh to mesh bridging over the Internet. For example to connect the Temagami mesh network to mesh networks in North Bay, Sudbury and New Liskeard
-  - Broadcasting sensor data, weather data, and weather reports. (i.e. Lake levels, water temperature, smoke particle levels, etc.)
-  - Possibly some sort of Internet dashboard (Grafana) based on the above data
-  - The addition of specialty chat groups and store and forward services: (fishing, canoe routes, camp chat, community news, emergency channel)
-    
-If you have any ideas you want to promote, please share them in the facebook page or on the GitHub discussion forum.
+At the end of this demonstration deployment, a decision will be made as to whether to continue the project or to permanently remove the nodes from the region.
