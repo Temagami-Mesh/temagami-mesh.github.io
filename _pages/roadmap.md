@@ -34,5 +34,6 @@ Our intention is to deploy 10 identical nodes over the winter as a temporary dep
 2. Discover the operational requirements of a long term mesh network deployment.
 3. To discover public reactions, complaints, and adverse consequences caused by the network.
 4. To ensure the project can remain viable while facing competing land claims, government red tape and bureaucracy.
+5. To demonstrate the benefits of the mesh network to community groups, aboriginal groups, and commercial businesses.
 
 At the end of this demonstration deployment, a decision will be made as to whether to continue the project or to permanently remove the nodes from the region.
