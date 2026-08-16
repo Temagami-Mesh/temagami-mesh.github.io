@@ -8,7 +8,7 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-This is a volunteer run not-for-profit endeavour that is funded entirely by voluntary contributions. We are not affiliated with or funded by any other local organization.
+This is a not-for-profit endeavor that is funded entirely by voluntary contributions of time and money. Please contact us if you would like to help out.
 {: .notice--info }
 
 ## Feasibility Assessment ##
