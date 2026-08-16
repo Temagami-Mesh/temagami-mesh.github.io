@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "We are building a free off-grid text messaging, asset tracking, and IOT network for Lake Temagami and the surrounding area"
+excerpt: "We are building a free off-grid text messaging and position sharing network for the Temagami region."
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
