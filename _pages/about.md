@@ -16,6 +16,10 @@ We aim to provide an extremely cost effective and very basic text-only digital r
 
 The Temagami Regional Mesh is not a replacement for your cellphone, satellite or Internet service. We are providing a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send texts, waypoints, and sensor information this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
 
+## Distributed Ownership
+
+There is no single owner of the mesh. There is no way to control access to or exclude anyone from using the mesh. As such it can never be operated as a subscription based service on a for-profit basis. Anyone can purchase or build a mesh node from readily available parts and join the mesh. There are no permissions required or licenses to be obtained to access the mesh.  
+
 ## Environmental Impacts
 
 We deploy and maintain a network of inexpensive infrastructure nodes in high points around the lake to provide this service. These are very small battery and solar powered devices that are unobtrusive and can't be seen unless you are very close to them. They transmit in an unlicensed UHF portion of the spectrum at very low power levels of 1 watt or less, they do not emit any ionizing radiation and are not associated with any adverse health effects.
@@ -40,7 +44,7 @@ On a lake area with poor or no cell coverage, Meshtastic nodes placed in homes, 
 - Environmental sensor (weather, water level, temperature) reporting over the same network
 - No ongoing cost and extremely low power draw (solar or battery friendly)
 
-Because each node acts as a relay, the network becomes stronger as more people participate. A few well-placed “router” nodes on high ground or tall trees can cover the entire lake, providing a resilient, community-owned communications layer that continues working when conventional networks fail.
+Because each node acts as a relay, the network becomes stronger as more people participate. Approximately 20 well-placed “router” nodes on high ground or tall trees can cover the entire lake, providing a resilient, community-owned communications layer that continues working when conventional networks fail.
 
 ## Business Use Cases
 
