@@ -30,7 +30,7 @@ We also developed a standardized node design that:
 
 ## Demonstration Deployment ##
 
-Our intention is to deploy 10 identical nodes over the winter as a temporary deployment that will last no longer than 12 months. The purpose of this temporary deployment is to:
+Our intention now is to deploy 10 identical nodes before the snow flies and observe them over the winter as a temporary deployment that will last no longer than 12 months. The purpose of this temporary deployment is to:
 
 1. Validate the cold weather performance and reliability of our node configuration, and to improve the design.
 2. Discover the operational requirements of a long term mesh network deployment.
