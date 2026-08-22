@@ -15,7 +15,7 @@ There is a [Facebook Page](https://www.facebook.com/profile.php?id=6159070279218
 ## Technical How-To Guides:
 
 - [MQTT Setup Guide](/mqtt)
-- [Encryption and Privacy](/security)
+- [Security and Privacy](/security)
 
 ## Project Maintainers:
 
