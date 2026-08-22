@@ -38,7 +38,7 @@ Our convention is to set up an account for each node where the username is the n
 
 Your node ID can be obtained from many places such as the User Config screen of the cellphone app. This is typically a number that looks like: !50b5a1dd. Your username will be this node id (without the exclamation mark).
 
-Once you have obtained your node id, send an email to temagami-mesh.tutamail.com to request an mqtt broker account for your node. Your account will be set up with a randomly generated password which will be emailed to you. It is probably a good idea to save that password as we don't keep any records of assigned MQTT passwords.
+Once you have obtained your node id, send an email to [temagami-mesh@tutamail.com](mailto:temagami-mesh@tutamail.com) to request an mqtt broker account for your node. Your account will be set up with a randomly generated password which will be emailed to you. It is probably a good idea to save that password as we don't keep any records of assigned MQTT passwords.
 
 ## Required Private MQTT Server Settings
 
