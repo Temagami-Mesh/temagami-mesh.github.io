@@ -9,3 +9,5 @@ header:
 ---
 
 # MQTT Setup Guide
+
+https://www.youtube.com/watch?v=p59xytuFSvE
