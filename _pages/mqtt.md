@@ -20,13 +20,13 @@ The Temagami Meshtastic Project operates its own private MQTT data broker, which
 
 ## MQTT Settings Explained
 
-#### LoRa Settings Page
+### LoRa Settings Page
 
 **OK to MQTT:** If enabled, any Internet gatway device anywhere on the RF mesh recieving your packet via RF will attempt to forward it to their configured MQTT server. This MQTT server is typically but not always our local private MQTT server.
 
 **Ignore MQTT:** If enabled, your radio will ignore any packets received via the Internet or local RF mesh network that have come through an MQTT gateway. 
 
-#### Channel Settings Pages
+### Channel Settings Pages
 
 **Uplink Enabled:** Allows packets sent by your radio to be uplinked to the Internet server. This includes packets that your radio is relaying from other local RF nodes.
 
