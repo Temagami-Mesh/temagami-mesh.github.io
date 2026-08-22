@@ -21,8 +21,6 @@ There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic
 
 ## Project Maintainers:
 
-A limited amount of technical assistance and hardware for this mesh networking project is being provided on a voluntary basis by:
-
 *[Darcy Fortin](mailto:primus66@hotmail.com)*, Node Deployment Coordinator
 - Temagami First Nations Guardian
 
