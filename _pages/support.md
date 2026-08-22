@@ -22,8 +22,5 @@ There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic
 ## Project Maintainers:
 
 *[Darcy Fortin](mailto:primus66@hotmail.com)*, Node Deployment Coordinator
-- Temagami First Nations Guardian
 
 *[Bond Keevil](mailto:support@bondkeevil.ca)*, Technical Support 
-- Amateur Radio Operator Callsigns [VA3HBK](https://www.qrz.com/db/VA3HBK) and [VE3TLV](https://www.qrz.com/edit/VE3TLV)
-- CompTIA certified computer and network technician
