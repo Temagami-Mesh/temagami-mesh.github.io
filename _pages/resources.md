@@ -51,13 +51,14 @@ A publicly accessible channel has been allocated for weather station and sensor 
 
 The technology provides for up to 8 channels or chatrooms that can be encrypted for privacy to be used at any one time. You can create your own private channels for your camp, cottage, family, or business. Only people who have the pre-shared key for your channel will be able to access it. Other nodes on the mesh will then help forward your encrypted packets to their intended recipients provided they share the same radio settings (Longfast preset and US/Canada frequencies). 
 
-The two predefined public channels for the area are:  
+The three predefined public channels for the area are:  
 
-| No. | Name      | Pre-shared key | Purpose |
+| Slot No. | Channel Name      | Pre-shared key | Purpose |
 | :-: | --------- | -------------- | ------- |
 | 1   | LongFast  | AQ==           | Default public channel |
 | 2   | Weather   | Ag==           | Automated Weather Sensor Broadcasts |
+| 3   | Testing   | Aw==           | Test messages and Range Tests |
 
-More publicly accessible predefined channels can be created as needed.
+These channels should remain in the designated slot numbers on your radio or the results may be unpredictable. This is particularly true for the Weather channel which must be in Channel slot 2 to work.
 
-
+The rest of the channel slots are available for you to set up your own private channels.
