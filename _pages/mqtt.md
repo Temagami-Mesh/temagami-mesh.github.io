@@ -8,8 +8,6 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-# MQTT Setup Guide
-
 The Message Queuing and Telemetry Transport (MQTT) protocol allows users to publish messages to the Internet and for other users to subscribe to them. Meshtastic uses MQTT to:
 
 1. Route meshtastic messages between disparate RF mesh networks that cannot be connected via other means
