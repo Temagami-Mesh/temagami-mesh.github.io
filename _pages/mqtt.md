@@ -16,7 +16,23 @@ The Message Queuing and Telemetry Transport (MQTT) protocol allows users to publ
 2. To allow meshtastic users who don't have direct access to a regional RF mesh network to use the service via an Internet or cellular connection
 3. To publish location data to publicly accessible Internet mesh map services (for those who have configured their radios to do so).
 
-The Temagami Meshtastic Project operates its own private MQTT data broker, which needs to be programmed into your radio to connect to the local mesh. There are other public data brokers available, including one that is provided by default by the Meshtastic organization. Unfortunately the public broker has highly restrictive policies that made it unuseable for our situation. 
+The Temagami Meshtastic Project operates its own private MQTT data broker, which needs to be programmed into your radio to connect to the local mesh using MQTT. This is not required if you intend to use the RF mesh only and don't want your data on the Internet. There are other public data brokers available, including one that is provided by default by the Meshtastic organization. Unfortunately the public broker has highly restrictive policies that made it unuseable for our situation. 
+
+## MQTT Settings Explained
+
+#### LoRa Settings Page
+
+**OK to MQTT:** If enabled, any Internet gatway device anywhere on the RF mesh recieving your packet via RF will attempt to forward it to their configured MQTT server. This MQTT server is typically but not always our local private MQTT server.
+
+**Ignore MQTT:** If enabled, your radio will ignore any packets received via the Internet or local RF mesh network that have come through an MQTT gateway. 
+
+#### Channel Settings Pages
+
+**Uplink Enabled:** Allows packets sent by your radio to be uplinked to the Internet server. This includes packets that your radio is relaying from other local RF nodes.
+
+**Downlink Enabled:** Allows packets to be received from the Internet server and possibly rebroadcast on your local RF mesh.
+
+**Position Accuracy:** If the accuracy of your position reports on the channel is >300m, your position will not be forwarded to publicly accessible mesh map services. It is ultimately up to the provider of the public mesh map service which packets they choose to publish.
 
 ## Requesting an MQTT Account
 
