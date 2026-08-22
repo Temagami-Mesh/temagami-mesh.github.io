@@ -12,6 +12,10 @@ There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic
 
 There is a [Facebook Page](https://www.facebook.com/profile.php?id=61590702792189) for end-user discussions and to help foster the adoption of Mesh networking technology.
 
+## How-To Guides:
+
+[MQTT Setup Guide](/mqtt)
+
 ## Project Maintainers:
 
 A limited amount of technical assistance and hardware for this mesh networking project is being provided on a voluntary basis by:
