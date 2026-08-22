@@ -1,5 +1,5 @@
 ---
-title: "Security and Privacy"
+title: "Security, Encryption and Privacy"
 permalink: /security/
 excerpt: "Understanding Meshtastic Security, Privacy and Encryption"
 header:
@@ -8,19 +8,21 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
+## Public/Private Key Cryptography
+
+Meshtastic direct and admin messages are sent using public key cryptography. Each user is assigned a randomly generated public and private key, which form a key pair. The public key can and should be publicly shared. The private key should be kept private. 
+
+Your identity on the mesh is determined by your public key, not your node name or node id. To exchange public keys with a radio, click on the "Exchange Node Info" button on your Meshtastic App.
+
+Your public and private key pair can be moved to a different radio. You should back these keys up in a secure location in case your radio becomes damaged or destroyed and you need to restore these keys to a different device.
+
+## Encryption
+
 The Meshtastic organization provides this detailed overview of [Meshtastic Encryption](https://meshtastic.org/docs/overview/encryption/)
 
 Meshtastic does not provide Pefect Forward Secrecy at the moment. This means if your public/private key are compromised, any previous messages you sent can be decrypted. {: .notice--warning}
 
 Meshtastic does not provide user authentication. It is difficult but not impossible for a node to impersonate other nodes. {: .notice--warning}
-
-## Public/Private Key Cryptography
-
-Direct messages and administrative packets are sent using public key cryptography. Each user is assigned a public and private key which are a key pair. The public key can and should be publicly shared. The private key should be kept private. 
-
-Your identity on the mesh is determined by your public/private keypair, not your node name or node id. 
-
-Your public and private key pair can be moved to a different radio. You should back these keys up in a secure location in case your radio becomes damaged or destroyed and you need to restore these keys to a different device.
 
 ## What Information is Unencrypted?
 
