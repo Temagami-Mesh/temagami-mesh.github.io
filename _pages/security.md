@@ -8,7 +8,7 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-The Meshtastic organization provides this detailed overview of (Meshtastic Encryption)[https://meshtastic.org/docs/overview/encryption/]
+The Meshtastic organization provides this detailed overview of [Meshtastic Encryption](https://meshtastic.org/docs/overview/encryption/)
 
 Meshtastic does not provide Pefect Forward Secrecy at the moment. This means if your public/private key are compromised, any previous messages you sent can be decrypted.
 
