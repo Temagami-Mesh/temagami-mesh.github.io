@@ -10,9 +10,9 @@ header:
 
 The Meshtastic organization provides this detailed overview of [Meshtastic Encryption](https://meshtastic.org/docs/overview/encryption/)
 
-Meshtastic does not provide Pefect Forward Secrecy at the moment. This means if your public/private key are compromised, any previous messages you sent can be decrypted.
+Meshtastic does not provide Pefect Forward Secrecy at the moment. This means if your public/private key are compromised, any previous messages you sent can be decrypted. {: .notice--warning}
 
-Meshtastic does not provide user authentication. It is difficult but not impossible for a node to impersonate other nodes. 
+Meshtastic does not provide user authentication. It is difficult but not impossible for a node to impersonate other nodes. {: .notice--warning}
 
 ## Public/Private Key Cryptography
 
