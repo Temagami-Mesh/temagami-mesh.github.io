@@ -44,6 +44,6 @@ Position, Telemetry, and Map Info data published to the regional mesh will be fo
 3. The packet is not encrypted, is encrypted by a publicly available key (LongFast, Weather), or the Channel owner has chosen to provide their private key to the mesh administrators.
 4. The owner of the radio has configured their radio to allow position sharing over the channel.
 
-To turn on/off your location sharing to public map services, go to the Channel settings for LongFast (or other relevant channel( and enable or disable location sharing on that channel.
+To turn on/off your location sharing to public map services, go to the Channel settings for LongFast (or other relevant channel) and enable or disable location sharing on that channel.
 
 It is possible to share your location only with members of your own private channel but it will not show up on any web based maps.
