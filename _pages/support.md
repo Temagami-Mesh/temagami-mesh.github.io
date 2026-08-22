@@ -23,10 +23,9 @@ There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic
 
 A limited amount of technical assistance and hardware for this mesh networking project is being provided on a voluntary basis by:
 
-*[Darcy Fortin](mailto:primus66@hotmail.com)*
+*[Darcy Fortin](mailto:primus66@hotmail.com)*, Node Deployment Coordinator
 - Temagami First Nations Guardian
-- Node Deployment Coordinator
 
-*[Bond Keevil](mailto:support@bondkeevil.ca)* 
+*[Bond Keevil](mailto:support@bondkeevil.ca)*, Technical Support 
 - Amateur Radio Operator Callsigns [VA3HBK](https://www.qrz.com/db/VA3HBK) and [VE3TLV](https://www.qrz.com/edit/VE3TLV)
 - CompTIA certified computer and network technician
