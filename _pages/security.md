@@ -37,3 +37,13 @@ A hypothetical attacker can determine the following information from unencrypted
 
 ## Location Sharing Privacy
 
+Position, Telemetry, and Map Info data published to the regional mesh will be forwarded to publicly accessible map services when they meet the following criteria.
+
+1. They originate from within the region, as determined by a geofence filter algorithm. (Approximately 150km from the center of Lake Temagami)
+2. The precision of the location is >300m. Exact locations will not be forwarded to public maps for privacy reasons.
+3. The packet is not encrypted, is encrypted by a publicly available key (LongFast, Weather), or the Channel owner has chosen to provide their private key to the mesh administrators.
+4. The owner of the radio has configured their radio to allow position sharing over the channel.
+
+To turn on/off your location sharing to public map services, go to the Channel settings for LongFast (or other relevant channel( and enable or disable location sharing on that channel.
+
+It is possible to share your location only with members of your own private channel but it will not show up on any web based maps.
