@@ -1,7 +1,7 @@
 ---
 title: "Security and Privacy"
-permalink: /encryption/
-excerpt: "Understanding Meshtastic Encryption"
+permalink: /security/
+excerpt: "Understanding Meshtastic Security, Privacy and Encryption"
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
