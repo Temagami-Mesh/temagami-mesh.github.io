@@ -15,7 +15,7 @@ Below is the live tracking data pulled directly from the repository.
 <!-- 1. Map container and layout dimensions -->
 <div id="map" style="height: 600px; width: 100%; border: 1px solid #ccc; margin: 20px 0; z-index: 1;"></div>
 
-<!-- 2. Leaflet Assets hosted via CDN -->
+<!-- 2. CORRECTED Leaflet Assets hosted via CDN -->
 <link rel="stylesheet" href="https://unpkg.com" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
@@ -42,10 +42,23 @@ Below is the live tracking data pulled directly from the repository.
       })
       .then(geojsonData => {
         const geojsonLayer = L.geoJSON(geojsonData, {
+          // Fix for point data: Ensure markers pull the standard CDN imagery
+          pointToLayer: function (feature, latlng) {
+            const defaultIcon = L.icon({
+              iconUrl: 'https://unpkg.com',
+              iconRetinaUrl: 'https://unpkg.com',
+              shadowUrl: 'https://unpkg.com',
+              iconSize:,
+              iconAnchor:,
+              popupAnchor: [1, -34],
+              shadowSize: [41, 41]
+            });
+            return L.marker(latlng, { icon: defaultIcon });
+          },
           onEachFeature: function (feature, layer) {
-            if (feature.properties && feature.properties.name) {
-              layer.bindPopup('<strong>' + feature.properties.name + '</strong>');
-            }
+            // Check for 'name' or fallback to other common attributes if blank
+            const title = feature.properties && (feature.properties.name || feature.properties.Name || "Mesh Node");
+            layer.bindPopup('<strong>' + title + '</strong>');
           }
         }).addTo(map);
 
