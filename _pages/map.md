@@ -8,14 +8,14 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-# Interactive Topographic Map
+# Interactive Mesh Network Topology Map
 
-Below is the live tracking data pulled directly from the repository.
+If you would like to make a change to this map, please send a detailed update request to [mapupdates@temagami-mesh.net](mailto:mapupdates@temagami-mesh.net).
 
 <!-- 1. Map container and layout dimensions -->
 <div id="map" style="height: 600px; width: 100%; border: 1px solid #ccc; margin: 20px 0; z-index: 1;"></div>
 
-<!-- 2. CORRECTED Leaflet Assets hosted via CDN -->
+<!-- 2. Leaflet Assets hosted via CDN -->
 <link rel="stylesheet" href="https://unpkg.com" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
@@ -31,7 +31,7 @@ Below is the live tracking data pulled directly from the repository.
       attribution: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap'
     }).addTo(map);
 
-    // Raw dataset URL configuration
+    // Raw dataset URL configuration - The data is located in the "Mesh-Router-Sites" repository
     const dataUrl = 'https://raw.githubusercontent.com/Temagami-Mesh/Mesh-Router-Sites/refs/heads/main/Mesh%20Router%20Sites.geojson';
 
     // Fetch and bind dataset
