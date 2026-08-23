@@ -8,7 +8,42 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-
+<div style="margin: 12px 0 24px 0; font-size: 0.95em;">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 4px 12px 4px 0; vertical-align: middle;">
+        <span style="
+          display: inline-block;
+          width: 14px;
+          height: 14px;
+          background-color: #f1c40f;
+          border: 2px solid white;
+          border-radius: 50%;
+          box-shadow: 0 0 0 1px #ccc;
+        "></span>
+      </td>
+      <td style="padding: 4px 0; vertical-align: middle;">
+        Operational mesh nodes
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 4px 12px 4px 0; vertical-align: middle;">
+        <span style="
+          display: inline-block;
+          width: 14px;
+          height: 14px;
+          background-color: #e74c3c;
+          border: 2px solid white;
+          border-radius: 50%;
+          box-shadow: 0 0 0 1px #ccc;
+        "></span>
+      </td>
+      <td style="padding: 4px 0; vertical-align: middle;">
+        Planned mesh nodes
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div id="map" style="height: 70vh; min-height: 520px; width: 100%; border: 1px solid #ccc; margin: 20px 0; border-radius: 4px; z-index: 1;"></div>
 
