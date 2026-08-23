@@ -1,7 +1,7 @@
 ---
 title: "Network Map"
 permalink: /map/
-excerpt: "Live mesh router nodes pulled from the [Mesh-Router-Sites](https://github.com/Temagami-Mesh/Mesh-Router-Sites) repository."
+excerpt: "Live mesh router nodes pulled from our [GeoJSON database](https://github.com/Temagami-Mesh/Mesh-Router-Sites)"
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
