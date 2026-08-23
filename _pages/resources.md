@@ -12,7 +12,7 @@ header:
 
 LoRa radio technology uses [Chirp Spread Spectrum modulation](https://www.youtube.com/watch?v=dxYY097QNs0){:target="_blank"} to encode digital data into "chirps". This scheme allows very weak digital radio signals to be successfully decoded well beyond the range of standard voice modulation techniques. The end result is that short text messages can be transmitted over very long distances using inexpensive low power devices. 
 
-Meshtastic is a mesh networking protocol that extends LoRa to allow these text messages to hop from node to node to extend the range of the system well beyond that of a single radio link. Meshtastic also provides a user-friendly cellphone app and other tools that make the system accessible and useful to the general public.
+Meshtastic and MeshCore are mesh networking protocols that extend LoRa to allow these text messages to hop from node to node to extend the range of the system well beyond that of a single radio link. Both protocols also provides a user-friendly cellphone app and other tools that make the system accessible and useful to the general public.
 
 ## How to Extend the Range of Your Mesh
 
@@ -22,17 +22,19 @@ The key to long range with LoRa radios is to place the antenna as high as possib
 
 You should ensure that your antenna is designed for the 915Mhz frequency band and is a high gain antenna design. The short stubby antennas that come with most radios are compromise antennas and should be replaced with a quality antenna if you need to improve your range.
 
-## MQTT Bridging ##
+## Message Queue Telemetry Transport (MQTT) ##
 
-MQTT Bridging allows you to connect to the Temagami meshtastic network from outside of its service area using the Internet. We also use it for bridging mesh segments within the service area that cannot be directly connected by RF signals.
+MQTT is the defacto standard communications protocol for Internet of Things (IOT) and Industrial Internet of Things (IIOT) networks. Our project maintains a private MQTT server for the region to provide bridging between disparate RF networks. This server is also available for local IOT and IIOT projects.
+
+[Read more on the MQTT How-to Page](/mqtt)
 
 ## Vehicle Tracking Use Case
 
-It is common to install GPS enabled meshtastic nodes in vehicles of various sorts for use as asset trackers. Most commercially available radios take a USB-C cable as a power source and have an on/off switch to disable the GPS tracking features. Once installed, you can view the location of the tracker on your cellphone app or the radio can be configured to forward position reports to the Internet where others can view the location though websites like https://meshmap.net
+It is somewhat common to install GPS enabled mesh nodes in vehicles of various sorts for use as asset trackers. Most commercially available radios take a USB-C cable as a power source and have an on/off switch to disable the GPS tracking features. Once installed, you can view the location of the tracker on your cellphone app or the radio can be configured to forward position reports to the Internet where others can view the location though websites like https://meshmap.net
 
-## Environmental Sensor Data
+## Sensor Data and IOT Projects
 
-It is possible to buy or build meshtastic nodes that can broadcast data from various sensors to the network, or to monitor or control switches and relays:
+It is possible to buy or build mesh nodes that can broadcast data from various sensors to the network, or to monitor or control switches and relays as part of an IOT or IIOT network:
 
 - Temperature/Humidity Sensors
 - Lake Level/Temperature Sensors
@@ -42,10 +44,9 @@ It is possible to buy or build meshtastic nodes that can broadcast data from var
 - Environment Canada weather alerts
 - Any sort of switch or logic state
 - Motion or human presence sensors
-- Gate control
-- Controlling IOT devices
+- Gate and motor control
   
-A publicly accessible channel has been allocated for weather station and sensor broadcasts. Or set up your own private channel for your own use.
+A publicly accessible channel has been allocated for weather forecast broadcasts.
 
 ## Channels
 
