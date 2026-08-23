@@ -14,6 +14,10 @@ There is a [Facebook Page](https://www.facebook.com/profile.php?id=6159070279218
 
 There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic/discussions) where you can ask technical questions, post updates, and get support with your projects. This is the place for more technical discussions.
 
+## Administrative Documents:
+
+- [10 Principles](/principles)
+  
 ## Technical How-To Guides:
 
 - [MQTT Setup Guide](/mqtt)
