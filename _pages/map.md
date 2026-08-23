@@ -1,16 +1,14 @@
 ---
 title: "Network Map"
 permalink: /map/
-excerpt: "Our community mesh router node infrastructure"
+excerpt: "Live mesh router nodes pulled from the [Mesh-Router-Sites](https://github.com/Temagami-Mesh/Mesh-Router-Sites) repository."
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
   overlay_filter: 0.35
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-# Interactive Topographic Map
 
-Live mesh router nodes pulled from the [Mesh-Router-Sites](https://github.com/Temagami-Mesh/Mesh-Router-Sites) repository.
 
 <div id="map" style="height: 70vh; min-height: 520px; width: 100%; border: 1px solid #ccc; margin: 20px 0; border-radius: 4px; z-index: 1;"></div>
 
