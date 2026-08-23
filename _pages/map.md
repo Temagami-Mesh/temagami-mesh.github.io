@@ -26,6 +26,20 @@ header:
         "></span>
         Operational Routers
       </td>
+      <td style="padding: 4px 18px 4px 0; vertical-align: middle; white-space: nowrap;">
+        <span style="
+          display: inline-block;
+          width: 14px;
+          height: 14px;
+          background-color: #fd7e14;
+          border: 2px solid white;
+          border-radius: 50%;
+          box-shadow: 0 0 0 1px #ccc;
+          margin-right: 6px;
+          vertical-align: middle;
+        "></span>
+        Internet Gateways
+      </td>      
       <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
           display: inline-block;
@@ -89,7 +103,6 @@ document.addEventListener("DOMContentLoaded", function () {
   function getColor(color) {
     const map = {
       yellow: '#f1c40f',
-      Yellow: '#f1c40f',
       green:  '#28a745',
       red:    '#e74c3c',
       blue:   '#3498db',
