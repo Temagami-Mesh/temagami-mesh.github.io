@@ -124,13 +124,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
         onEachFeature: function (feature, layer) {
           const p = feature.properties || {};
-          const name = p.name || 'Mesh Node';
-          const status = p.status || 'Unknown';
-          const hardware = p.hardware || '';
-
-          let html = `<strong>${name}</strong><br>Status: ${status}`;
-          if (hardware) html += `<br>Hardware: ${hardware}`;
-
+        
+          const name     = p.name || 'Mesh Node';
+          const status   = p.status || 'Unknown';
+          const hardware = p.hardware || '—';
+          const owner    = p.owner || '—';
+        
+          const html = `
+            <strong>${name}</strong><br>
+            <b>Status:</b> ${status}<br>
+            <b>Hardware:</b> ${hardware}<br>
+            <b>Owner:</b> ${owner}
+          `;
+        
           layer.bindPopup(html);
         }
       }).addTo(map);
