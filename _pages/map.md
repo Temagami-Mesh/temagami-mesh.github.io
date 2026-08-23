@@ -9,9 +9,10 @@ header:
 ---
 
 <div style="margin: 12px 0 24px 0; font-size: 0.95em;">
-  <table style="border-collapse: collapse;">
+  <strong>Legend</strong>
+  <table style="border-collapse: collapse; margin-top: 6px;">
     <tr>
-      <td style="padding: 4px 12px 4px 0; vertical-align: middle;">
+      <td style="padding: 4px 18px 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
           display: inline-block;
           width: 14px;
@@ -20,14 +21,12 @@ header:
           border: 2px solid white;
           border-radius: 50%;
           box-shadow: 0 0 0 1px #ccc;
+          margin-right: 6px;
+          vertical-align: middle;
         "></span>
-      </td>
-      <td style="padding: 4px 0; vertical-align: middle;">
         Operational mesh nodes
       </td>
-    </tr>
-    <tr>
-      <td style="padding: 4px 12px 4px 0; vertical-align: middle;">
+      <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
           display: inline-block;
           width: 14px;
@@ -36,9 +35,9 @@ header:
           border: 2px solid white;
           border-radius: 50%;
           box-shadow: 0 0 0 1px #ccc;
+          margin-right: 6px;
+          vertical-align: middle;
         "></span>
-      </td>
-      <td style="padding: 4px 0; vertical-align: middle;">
         Planned mesh nodes
       </td>
     </tr>
