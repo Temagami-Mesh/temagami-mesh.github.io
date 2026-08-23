@@ -10,10 +10,6 @@ header:
 
 # Interactive Mesh Network Topology Map
 
-If you would like to make a change to this map, please send a detailed update request to [mapupdates@temagami-mesh.net](mailto:mapupdates@temagami-mesh.net). 
-
-[download the raw GeoJSON data here](https://raw.githubusercontent.com/Temagami-Mesh/Mesh-Router-Sites/refs/heads/main/Mesh%20Router%20Sites.geojson)
-
 <!-- 1. Map container and layout dimensions -->
 <div id="map" style="height: 600px; width: 100%; border: 1px solid #ccc; margin: 20px 0; z-index: 1;"></div>
 
@@ -70,3 +66,7 @@ If you would like to make a change to this map, please send a detailed update re
       .catch(error => console.error('Map loading error:', error));
   });
 </script>
+
+If you would like to make a change to this map, please send a detailed update request to [mapupdates@temagami-mesh.net](mailto:mapupdates@temagami-mesh.net). 
+
+[download the raw GeoJSON data here](https://raw.githubusercontent.com/Temagami-Mesh/Mesh-Router-Sites/refs/heads/main/Mesh%20Router%20Sites.geojson)
