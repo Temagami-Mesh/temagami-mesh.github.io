@@ -164,17 +164,22 @@ document.addEventListener("DOMContentLoaded", function () {
         });
       }
     })
+
     .catch(error => {
       console.error(error);
       map.removeControl(loadingControl);
-
+    
       const errorControl = L.control({ position: 'topright' });
       errorControl.onAdd = function () {
         const div = L.DomUtil.create('div', 'leaflet-bar');
         div.style.padding = '10px 14px';
         div.style.background = '#f8d7da';
         div.style.color = '#721c24';
-        div.innerHTML = `<strong>Unable to load data</strong><br>${error.message}`;
+        div.style.maxWidth = '280px';
+        div.innerHTML = 
+          '<strong>Unable to load data</strong><br>' +
+          error.message +
+          '<br><small>Check the browser console (F12) for more details.</small>';
         return div;
       };
       errorControl.addTo(map);
