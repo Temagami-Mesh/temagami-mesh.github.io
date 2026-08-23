@@ -131,11 +131,13 @@ document.addEventListener("DOMContentLoaded", function () {
           const owner    = p.owner || '—';
         
           const html = `
-            <strong>${name}</strong><br>
-            <b>Status:</b> ${status}<br>
-            <b>Hardware:</b> ${hardware}<br>
-            <b>Owner:</b> ${owner}
-          `;
+              <strong>${name}</strong><br>
+              <div style="font-size: 0.85em; margin-top: 4px; line-height: 1.4;">
+                <b>Status:</b> ${status}<br>
+                <b>Hardware:</b> ${hardware}<br>
+                <b>Owner:</b> ${owner}
+              </div>
+            `;
         
           layer.bindPopup(html);
         }
