@@ -32,7 +32,7 @@ Below is the live tracking data pulled directly from the repository.
     }).addTo(map);
 
     // Raw dataset URL configuration
-    const dataUrl = 'https://githubusercontent.com';
+    const dataUrl = 'https://raw.githubusercontent.com/Temagami-Mesh/Mesh-Router-Sites/refs/heads/main/Mesh%20Router%20Sites.geojson';
 
     // Fetch and bind dataset
     fetch(dataUrl)
