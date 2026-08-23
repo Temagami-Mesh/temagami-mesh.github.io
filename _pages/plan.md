@@ -1,6 +1,6 @@
 ---
-title: "Project Roadmap"
-permalink: /roadmap/
+title: "Project Plan"
+permalink: /plan/
 excerpt: "We are uncovering the requirements for a large scale long term mesh deployment in the region"
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
