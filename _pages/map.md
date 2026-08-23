@@ -15,9 +15,9 @@ Below is the live tracking data pulled directly from the repository.
 <!-- 1. Map container and layout dimensions -->
 <div id="map" style="height: 600px; width: 100%; border: 1px solid #ccc; margin: 20px 0; z-index: 1;"></div>
 
-<!-- 2. Leaflet Assets hosted via cdnjs (Fixes the CORS issue) -->
-<link rel="stylesheet" href="https://cloudflare.com" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<script src="https://cloudflare.com" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- 2. jsDelivr Leaflet Assets (Eliminates CORS and Hash Mismatches) -->
+<link rel="stylesheet" href="https://jsdelivr.net" />
+<script src="https://jsdelivr.net"></script>
 
 <!-- 3. Dynamic Map Render Script -->
 <script>
