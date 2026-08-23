@@ -17,9 +17,9 @@ If you would like to make a change to this map, please send a detailed update re
 <!-- 1. Map container and layout dimensions -->
 <div id="map" style="height: 600px; width: 100%; border: 1px solid #ccc; margin: 20px 0; z-index: 1;"></div>
 
-<!-- 2. Leaflet Assets hosted via CDN -->
-<link rel="stylesheet" href="https://unpkg.com" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-<script src="https://unpkg.com" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<!-- 2. Leaflet Assets hosted via highly compatible CDN -->
+<link rel="stylesheet" href="https://cloudflare.com" integrity="sha512-Zcn6cHskjwhWgKs07u3Gsc6vSAsP96oN0fMksE37V9vj0fN2H3n2A7N1hGZgC8tS9wM6vH6v9S= crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cloudflare.com" integrity="sha512-BwHKAuL67dgE56z87vN0M6R767G6N7M07M6j6N87N97Gv0M= crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <!-- 3. Dynamic Map Render Script -->
 <script>
