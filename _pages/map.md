@@ -60,7 +60,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Normalize color names to hex
     const colorMap = {
       yellow: '#f1c40f',
-      Yellow: '#f1c40f',
       green:  '#28a745',
       red:    '#e74c3c',
       blue:   '#3498db',
