@@ -26,15 +26,15 @@ We deploy and maintain a network of inexpensive infrastructure nodes in high poi
 
 By deploying this network, we are reducing the demand for large cellular towers in unmarketable and unserviceable areas that would detract from the region's natural beauty and require large government subsidies to exist.
 
-## What is Meshtastic?
+## What is LoRa Mesh networking?
 
-Meshtastic is an open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages and GPS positions from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
+Meshtastic and Meshcore are open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages and GPS positions from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
 
 {% include video id="oAo2sb8LpFc" provider="youtube" %}
 
 ## How this Helps the Temagami Community?
 
-On a lake area with poor or no cell coverage, Meshtastic nodes placed in homes, cabins, boats, and high points (trees, masts, hills) create a shared community network:
+On a lake area with poor or no cell coverage, mesh networking nodes placed in homes, cabins, boats, and high points (trees, masts, hills) create a shared community network:
 
 - Reliable text messaging between residents, even dozens of kilometers apart
 - Backup emergency communications during storms, fires, medical events, or power outages
@@ -58,4 +58,4 @@ If any aspect of this mission aligns with your organizational goals, please go a
   
 ## About This Project
 
-This project provides a central repository of information of interest to meshtastic users in the Lake Temagami area and a discussion forum where people can get technical assistance with their own local mesh networking projects. There is no formal organization and we don't own any property or sell any services. All contributions made remain the property of and are the responsibility of their respective owners.
+This project provides a central repository of information of interest to mesh networking users in the Lake Temagami area and a discussion forum where people can get technical assistance with their own local mesh networking projects. There is no formal organization and we don't own any property or sell any services. All contributions made remain the property of and are the responsibility of their respective owners.
