@@ -24,7 +24,7 @@ header:
           margin-right: 6px;
           vertical-align: middle;
         "></span>
-        Operational mesh nodes
+        Operational Routers
       </td>
       <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
@@ -38,7 +38,7 @@ header:
           margin-right: 6px;
           vertical-align: middle;
         "></span>
-        Planned mesh nodes
+        Planned Routers
       </td>
     </tr>
   </table>
