@@ -3,11 +3,11 @@ main:
     url: /about/
   - title: "Plan"
     url: /plan/    
-  - title: "Get Connected"
+  - title: "Connect"
     url: /connect/
   - title: "Map"
     url: /map/
   - title: "More Info"
     url: /resources/
-  - title: "Get Help"
+  - title: "Support"
     url: /support/
