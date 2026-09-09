@@ -22,7 +22,7 @@ There is no single owner of the mesh. There is no way to control access to or ex
 
 ## Environmental Impacts
 
-We deploy and maintain a network of inexpensive infrastructure nodes in high points around the lake to provide this service. These are very small battery and solar powered devices that are unobtrusive and can't be seen unless you are very close to them. They transmit in an unlicensed UHF portion of the spectrum at very low power levels of 1 watt or less, they do not emit any ionizing radiation and are not associated with any adverse health effects.
+We deploy and maintain a network of inexpensive infrastructure nodes on high points around the lake to provide this service. These are very small battery and solar powered devices that are unobtrusive and can't be seen unless you are very close to them. They transmit in an unlicensed UHF portion of the spectrum at very low power levels of 1 watt or less, they do not emit any ionizing radiation and are not associated with any adverse health effects.
 
 By deploying this network, we are reducing the demand for large cellular towers in unmarketable and unserviceable areas that would detract from the region's natural beauty and require large government subsidies to exist.
 
