@@ -63,7 +63,7 @@ author:
   bio    : "Connecting the remote shores of Lake Temagami with LoRa mesh networking."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-globe"
       url: "mailto:info@temagami-mesh.net"
     - label: "GitHub Discussion Group"
       icon: "fab fa-fw fa-github"
@@ -77,7 +77,7 @@ author:
 footer:
   links:
     - label: "Bylaws"
-      icon: "fab fa-fw fa-website"
+      icon: "fab fa-fw fa-globe"
       url: "/bylaws"
 defaults:
   # _pages
