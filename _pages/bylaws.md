@@ -10,6 +10,8 @@ header:
 
 # Temagami Mesh Networking
 
+This is a bylaw template for discussion purposes. It has not been officially adopted. {: .notice--warning}
+
 # By-law No. 1
 
 *Organizational By-law of the Association*  
