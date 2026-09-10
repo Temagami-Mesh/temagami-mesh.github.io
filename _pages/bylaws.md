@@ -10,8 +10,6 @@ header:
 
 # Temagami Mesh Networking
 
-This is a bylaw template for discussion purposes. It has not been officially adopted. {: .notice--warning}
-
 # By-law No. 1
 
 *Organizational By-law of the Association*  
@@ -19,68 +17,9 @@ This is a bylaw template for discussion purposes. It has not been officially ado
 
 A dual-status governing instrument prepared so that the same text governs the unincorporated association and becomes the organizational by-law of an Ontario not-for-profit corporation under the *Not-for-Profit Corporations Act, 2010* (ONCA).
 
-**Adopted:** ________________________, 20____
+**Adopted:** September ???, 2026
 
 *Effective immediately as the constitution of the Association and, on the Certificate Date, as By-law No. 1 of the Corporation.*
-
----
-
-## Important — read this first
-
-This document is a working draft for the founding members. It is not legal advice, is not a substitute for advice from an Ontario lawyer or a licensed paralegal, and has not been reviewed by counsel. Corporate, charity and tax rules change. Before you file articles of incorporation, a NUANS name search, or a Canada Revenue Agency election, have this text and your proposed articles reviewed.
-
----
-
-# Founders’ Memorandum (not part of the By-law)
-
-## 1. Why this instrument is dual-status
-
-You asked for by-laws that can govern Temagami Mesh Networking as an unincorporated association now, and that can be adopted, with as little rewriting as possible, as the organizational by-law of an Ontario not-for-profit corporation. Article 1 and Article 17 do that work. Until a certificate of incorporation issues, this document is a contract among the members. On the certificate date it becomes By-law No. 1 of the corporation, the Association’s members become the Corporation’s first members, and Association property is treated as held for the Corporation.
-
-## 2. The name “Ltd.” cannot be used on incorporation
-
-The name in the founding email is “Temagami Mesh Networking Ltd.” Under Ontario’s Names and Filings Regulation, a not-for-profit corporation may use “Incorporated”, “Inc.”, “Corporation” or “Corp.”, or no legal element at all. It may not use “Limited”, “Ltd.”, “Limitée” or “Ltée”. Recommended approach:
-
-- Association / operating name now: **Temagami Mesh Networking**
-- Proposed corporate name: **Temagami Mesh Networking Inc.**
-- If you have already reserved “Temagami Mesh Networking Ltd.” as a business name, keep using it as a registered business style only until incorporation, then register “Temagami Mesh Networking” (or similar) under the *Business Names Act* if you want a style different from the corporate name.
-
-This By-law uses “Temagami Mesh Networking” as the Organization’s name and “Temagami Mesh Networking Inc.” as the proposed corporate name. Change those defined terms if you choose a different corporate name after the NUANS search.
-
-## 3. Objects clause — copy this into the articles
-
-Purposes live in the articles of incorporation, not only in the by-laws. The clause in Article 2 and Schedule B is the founding draft, tightened so that it reads as civic improvement, public safety and public education — the categories that sit comfortably under paragraph 149(1)(l) of the *Income Tax Act* (non-profit organization exemption) — and so that it expressly excludes a profit purpose and a subscription-telecom purpose. CRA looks at how you are organized and how you actually operate. Paying people fair amounts for node work is compatible with NPO status; distributing surplus to members is not.
-
-## 4. Paying yourselves for deployments
-
-A not-for-profit may pay reasonable compensation for work. It may not pay dividends or divide residual assets among members. Section 10.04 authorizes the Board to set a deployment and service honorarium (the proposed $300 per successful node is an example the Board can adopt by resolution). Any Director who would receive that payment must disclose and recuse under Article 11.
-
-## 5. What incorporation still requires
-
-1. NUANS name search for the proposed corporate name (not “Ltd.”).
-2. At least three first directors, each 18 or older, each signing a consent to act.
-3. Ontario registered office (a street address; not a P.O. box).
-4. Articles of Incorporation stating purposes, director range (this By-law uses 3 to 9), one class of voting members, and a dissolution clause matching Article 16.
-5. Within 60 days after the certificate date, the first directors should pass this By-law as the organizational by-law (Article 17 already deems that to occur; still record a directors’ resolution and obtain member confirmation at the first members’ meeting).
-6. First annual meeting of members: no later than 18 months after incorporation, and thereafter not later than 15 months after the last annual meeting and not later than six months after year-end. You may hold it earlier. A plan to hold it within six months is stricter than ONCA and is compatible with this By-law.
-
-Ontario filing fees are in the low hundreds of dollars and change from time to time. Confirm current fees on the Ontario Business Registry before you file. Ongoing ONCA filings are light compared with a business corporation, but you will still keep minute books, a members’ register, and (if you exceed the public-benefit thresholds) more formal financial review.
-
-## 6. Public-benefit and charity notes
-
-This draft is written for a non-charitable not-for-profit organization, not a registered charity. If annual gifts or government source revenue cross the ONCA public-benefit thresholds, the Corporation becomes a public benefit corporation and Article 16 already sends remaining property to a similar public-benefit body rather than to members. Do not apply for charitable registration unless you intend to confine the purposes to recognized charitable heads and to accept the extra CRA and Public Guardian and Trustee constraints. Directors of a registered charity generally cannot be paid as employees.
-
-## 7. The 10 Principles
-
-The published [Community Principles & Code of Conduct](https://temagami-mesh.github.io/principles/) (August 2026) is part of the governing instrument in two layers. Article 2.03 writes the principles into duties the Board and Members must follow. Schedule D reproduces the public text so it travels with the minute book. Section 2.04 keeps the project website as a living community edition: the Board may update commentary and examples without a by-law amendment, but it cannot water down the ten headings or the binding rules in Article 2.03 except by the ordinary by-law process. If the public page and this By-law ever conflict, this By-law wins.
-
-The principles that most needed a legal home are: no subscription / no exclusion from the mesh; open documentation; local resilience first; permission before siting; ISED-compliant operation; privacy, property and leave-no-trace; coordination of core routers and channels versus autonomy of personal nodes; and a conduct rule against harassment. Those now support membership discipline and the dispute article.
-
----
-
-# Temagami Mesh Networking
-
-# By-law No. 1
 
 ## Article 1 — Interpretation and Dual Status
 
@@ -301,8 +240,8 @@ A Director shall:
 
 The first Directors of the Association, who shall serve until the close of the first annual meeting of Members or until their successors are elected or appointed, are:
 
-1. ________________________________ (founding Director)
-2. ________________________________ (founding Director)
+1. Bond Keevil (founding Director)
+2. Darcy Fortin (founding Director)
 3. ________________________________ (founding Director)
 
 On incorporation, the first Directors named in the articles shall be those individuals, unless the Founding Members have meanwhile elected a different Board. Each first Director of the Corporation must sign the consent required by the Act.
@@ -559,53 +498,7 @@ This By-law comes into force as the constitution of the Association when it has 
 
 This By-law repeals every prior constitution, by-law or governing resolution of the Association, without affecting the validity of any act done under them.
 
----
-
-**ENACTED as By-law No. 1 of Temagami Mesh Networking.**
-
-## Founding Members / First Directors
-
-Signed in counterparts, each of which is an original.
-
-Signature: ________________________________
-
-Print name: ________________________________
-
-Date: ________________________________
-
-Residential address (for Association records; first-director consent uses the statutory form): ________________________________
-
-*[Repeat the signature block for each Founding Member. Three signatures are required to bring this By-law into force under section 18.01.]*
-
----
-
-# Schedule A — Form of Members’ Resolution Adopting this By-law
-
-**Temagami Mesh Networking**  
-**Resolution of the Founding Members**
-
-WHEREAS the undersigned intend to carry on a community mesh-networking initiative in the Temagami region as a not-for-profit association, with a view to later incorporating under the *Not-for-Profit Corporations Act, 2010* (Ontario);
-
-AND WHEREAS a draft By-law No. 1 has been presented to the undersigned;
-
-NOW THEREFORE the undersigned, being all of the Founding Members, resolve as follows:
-
-1. By-law No. 1 in the form attached, including the Community Principles in Article 2.03 and Schedule D, is adopted as the constitution of Temagami Mesh Networking, effective on the date of the last signature below.
-2. The first Directors are the three individuals named in section 6.03 of that By-law.
-3. The Board is authorized to open a bank or credit-union account, to establish a fundraising page, to adopt a deployment-honorarium schedule, and to take the incorporation steps described in Article 17.
-4. This resolution may be signed in counterparts and by electronic signature.
-
-Dated: ________________________, 20____
-
-Member signature / print name: ________________________________
-
-Member signature / print name: ________________________________
-
-Member signature / print name: ________________________________
-
----
-
-# Schedule B — Purposes (paste into Ontario Articles of Incorporation)
+# Schedule B — Purposes
 
 The purposes of the corporation are:
 
@@ -617,35 +510,13 @@ The establishment and operation of a community communications organization for t
 - **(d)** educating the public and providing technical information, forums and assistance concerning open-source mesh networking and its community use; and
 - **(e)** other complementary purposes not inconsistent with these purposes.
 
-**Suggested special provisions** (in addition to the non-profit clause that Ontario inserts automatically):
+**Special provisions** (in addition to the non-profit clause that Ontario inserts automatically):
 
 1. The corporation shall have a minimum of three and a maximum of nine directors.
 2. There shall be one class of members. Each member is entitled to one vote at a meeting of members.
 3. A membership is not transferable.
 4. No part of the corporation’s profits or of its property may be distributed to a member, director or officer except in furtherance of its activities or as otherwise permitted by the *Not-for-Profit Corporations Act, 2010*.
 5. Upon the liquidation, dissolution or winding-up of the corporation, after satisfaction of all debts, obligations and liabilities, remaining property shall not be distributed among the members. It shall be distributed to one or more organizations that are organized and operated exclusively for similar purposes and that prohibit distribution of income to their members or, if the corporation is then a public benefit corporation, to a public benefit corporation with similar purposes or to a government or government agency, as required by the Act.
-
----
-
-# Schedule C — Incorporation path (working checklist)
-
-| Step | Action |
-| --- | --- |
-| A | Adopt By-law No. 1 and the Members’ resolution in Schedule A. Complete the three Director names in section 6.03. |
-| B | Do not file a corporate name that includes Ltd. or Limited. Run a NUANS search on “Temagami Mesh Networking Inc.” or another ONCA-compliant name. |
-| C | Confirm a third Director. Each first Director signs Ontario’s consent-to-act form. |
-| D | Fix the Ontario street address that will appear as the registered office. |
-| E | Paste Schedule B purposes and special provisions into the articles. Keep commercial activity ancillary to the Purposes. |
-| F | File articles online through the Ontario Business Registry and pay the current fee. |
-| G | On the Certificate Date, pass a Directors’ resolution confirming By-law No. 1, adopt banking resolutions in the Corporation’s name, and transfer Association funds and equipment. |
-| H | Hold the first Members’ meeting of the Corporation (you may do this well before the statutory 18-month outside date). Elect the Board, confirm the By-law, appoint or waive an auditor. |
-| I | Keep a minute book: articles, certificate, by-laws, consents, registers, minutes, financial statements. |
-| J | If you fundraise from the public or receive government source funds above the ONCA threshold, track public-benefit-corporation status and adjust financial review accordingly. |
-| K | NPO tax status under ITA s. 149(1)(l) is not obtained by filing a form in advance. It depends on being organized and operated exclusively for purposes other than profit and on not making income available to members. File the returns CRA requires. Get tax advice before accumulating a large surplus or paying related parties. |
-
-This checklist is practical guidance for the founders. It is not a filing instruction from the Ministry or from CRA.
-
----
 
 # Schedule D — Community Principles & Code of Conduct
 
@@ -705,4 +576,3 @@ We assume good intent. When conflicts or differing opinions arise (technical cho
 The Temagami Regional Mesh is built on the Meshtastic firmware, apps and ecosystem and on related open-source tools. The Organization shall contribute back where it reasonably can and shall encourage Members to support upstream projects.
 
 Source of the public text: <https://temagami-mesh.github.io/principles/>
-
