@@ -8,8 +8,6 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-# Temagami Mesh Networking
-
 # By-law No. 1
 
 *Organizational By-law of the Association*  
