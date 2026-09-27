@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Temagami Mesh Project
+title: Temagami Mesh Networking Inc.
 description: >- # this means to ignore newlines until "baseurl:"
   Community mesh network for off-grid communication on Lake Temagami and surrounding areas.
 url: "https://temagami-mesh.github.io"
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Temagami Mesh Project"
+  name   : "Temagami Mesh Networking Inc."
   avatar : "/assets/images/temagami_mesh_logo.jpg"
-  bio    : "Connecting the remote shores of Lake Temagami with LoRa mesh networking."
+  bio    : "Connecting the remote shores of Lake Temagami with mesh networking."
   links:
     - label: "Email"
       icon: "fab fa-fw fa-envelope"
@@ -70,7 +70,7 @@ author:
       url: "https://github.com/orgs/Temagami-Mesh/discussions"
     - label: "Facebook Page"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=61590702792189"  
+      url: "https://www.facebook.com/temagami.mesh.networking"
     - label: "Mesh Monitor"
       icon: "fab fa-fw fa-website"
       url: "https://monitor.temagami-mesh.net"
