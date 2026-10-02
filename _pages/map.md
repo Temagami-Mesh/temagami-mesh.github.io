@@ -26,6 +26,20 @@ header:
         "></span>
         Operational
       </td>
+      <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
+        <span style="
+          display: inline-block;
+          width: 14px;
+          height: 14px;
+          background-color: #888888;
+          border: 2px solid white;
+          border-radius: 50%;
+          box-shadow: 0 0 0 1px #ccc;
+          margin-right: 6px;
+          vertical-align: middle;
+        "></span>
+        Non-Operational
+      </td>      
       <td style="padding: 4px 18px 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
           display: inline-block;
@@ -53,20 +67,6 @@ header:
           vertical-align: middle;
         "></span>
         Planned
-      </td>
-      <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
-        <span style="
-          display: inline-block;
-          width: 14px;
-          height: 14px;
-          background-color: #888888;
-          border: 2px solid white;
-          border-radius: 50%;
-          box-shadow: 0 0 0 1px #ccc;
-          margin-right: 6px;
-          vertical-align: middle;
-        "></span>
-        Non-Operational
       </td>
     </tr>
   </table>
