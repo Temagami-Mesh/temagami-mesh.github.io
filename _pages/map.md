@@ -24,7 +24,7 @@ header:
           margin-right: 6px;
           vertical-align: middle;
         "></span>
-        Operational Routers
+        Operational
       </td>
       <td style="padding: 4px 18px 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
@@ -38,7 +38,7 @@ header:
           margin-right: 6px;
           vertical-align: middle;
         "></span>
-        Internet Gateways
+        Gateways
       </td>      
       <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
@@ -52,7 +52,7 @@ header:
           margin-right: 6px;
           vertical-align: middle;
         "></span>
-        Planned Routers
+        Planned
       </td>
       <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
         <span style="
