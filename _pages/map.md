@@ -54,6 +54,20 @@ header:
         "></span>
         Planned Routers
       </td>
+      <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
+        <span style="
+          display: inline-block;
+          width: 14px;
+          height: 14px;
+          background-color: #888888;
+          border: 2px solid white;
+          border-radius: 50%;
+          box-shadow: 0 0 0 1px #ccc;
+          margin-right: 6px;
+          vertical-align: middle;
+        "></span>
+        Non-Operational
+      </td>
     </tr>
   </table>
 </div>
@@ -107,7 +121,8 @@ document.addEventListener("DOMContentLoaded", function () {
       red:    '#e74c3c',
       blue:   '#3498db',
       orange: '#fd7e14',
-      black:  '#222222'
+      black:  '#222222',
+      gray:   '#888888'
     };
     return map[color] || color || '#3388ff';
   }
