@@ -26,7 +26,7 @@ header:
         "></span>
         Operational
       </td>
-      <td style="padding: 4px 0; vertical-align: middle; white-space: nowrap;">
+      <td style="padding: 4px 18px 4px 0; vertical-align: middle; white-space: nowrap;")
         <span style="
           display: inline-block;
           width: 14px;
