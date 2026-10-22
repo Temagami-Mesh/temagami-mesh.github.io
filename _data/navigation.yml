@@ -5,8 +5,6 @@ main:
     url: /plan/    
   - title: "Connect"
     url: /connect/
-  - title: "Map"
-    url: /map/
   - title: "More Info"
     url: /resources/
   - title: "Support"
