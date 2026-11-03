@@ -26,5 +26,3 @@ There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic
 ## Project Maintainers:
 
 *[Darcy Fortin](mailto:primus66@hotmail.com)*, Node Deployment Coordinator
-
-*[Bond Keevil](mailto:support@bondkeevil.ca)*, Technical Support 
