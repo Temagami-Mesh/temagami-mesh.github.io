@@ -8,6 +8,9 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
+This project has been cancelled. The description of the project below is for informational and archival purposes.
+{: .notice--warning}
+
 ## The Goal of This Project
 
 We aim to provide an extremely cost effective and very basic text-only digital radio service that is reliably accessible from all areas of the lake, neighbouring lakes that have some degree of human occupation, and popular canoe routes and wilderness destinations. Our focus is on providing a bare minimum level of service to areas where it is not economically feasible for commercial providers to offer services.
