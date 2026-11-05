@@ -8,7 +8,7 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-This project has been cancelled. The description of the project below is for informational and archival purposes.
+This project has been cancelled. The information about the project below is for informational and archival purposes only.
 {: .notice--warning}
 
 ## The Goal of This Project
