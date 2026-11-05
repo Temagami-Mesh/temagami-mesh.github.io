@@ -13,16 +13,3 @@ We are now hosting a public [Mesh Monitor](https://monitor.temagami-mesh.net/) w
 There is a [Facebook Page](https://www.facebook.com/profile.php?id=61590702792189) for end-user discussions and to help foster the adoption of Mesh networking technology.
 
 There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic/discussions) where you can ask technical questions, post updates, and get support with your projects. This is the place for more technical discussions.
-
-## Administrative Documents:
-
-- [10 Principles](/principles)
-  
-## Technical How-To Guides:
-
-- [MQTT Setup Guide](/mqtt)
-- [Security and Privacy](/security)
-
-## Project Maintainers:
-
-*[Darcy Fortin](mailto:primus66@hotmail.com)*, Node Deployment Coordinator
