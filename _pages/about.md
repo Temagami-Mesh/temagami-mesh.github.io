@@ -19,10 +19,6 @@ We aim to provide an extremely cost effective and very basic text-only digital r
 
 The Temagami regional mesh is not a replacement for your cellphone, satellite or Internet service. We intend to provide a single shared 1kbps connection for the entire region, which is very low bandwidth. While you can send text messages and position data, this network cannot handle large files, videos or images. Users should be aware of this bandwidth limitation and prioritize important traffic and emergency traffic. 
 
-## Failed Attempt to Organize
-
-In the fall of 2026 we explored the possibility of incorporating as a not-for-profit corporation that could own permits and property. Ultimately we were unable to recruit the required minimum number of directors. We also made requests for information regarding what permits would be required to operate on crown land and what they would cost. Ultimately the government was unable to produce any such information or a suitable application process for this project. 
-
 ## Distributed Ownership
 
 There is no single owner of the mesh. There is no way to control access to or exclude anyone from using the mesh. As such it can never be operated as a subscription based service on a for-profit basis. Anyone can purchase or build a mesh node from readily available parts and join the mesh. There are no permissions required or licenses that need to be obtained to use this portion of the radio spectrum.
