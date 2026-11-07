@@ -62,18 +62,9 @@ author:
   avatar : "/assets/images/temagami_mesh_logo.jpg"
   bio    : "Connecting the remote shores of Lake Temagami with mesh networking."
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:info@temagami-mesh.net"
-    - label: "GitHub Discussion Group"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/orgs/Temagami-Mesh/discussions"
     - label: "Facebook Page"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/temagami.mesh.networking"
-    - label: "Mesh Monitor"
-      icon: "fab fa-fw fa-website"
-      url: "https://monitor.temagami-mesh.net"
 footer:
 
 defaults:
