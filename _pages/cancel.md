@@ -1,6 +1,6 @@
 ---
 title: "Cancellation"
-permalink: /cancellation/
+permalink: /cancel/
 excerpt: "This project has been cancelled"
 header:
   overlay_image: /assets/images/temagami_mesh_hero.jpg
