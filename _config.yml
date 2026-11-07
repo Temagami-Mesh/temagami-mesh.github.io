@@ -75,10 +75,7 @@ author:
       icon: "fab fa-fw fa-website"
       url: "https://monitor.temagami-mesh.net"
 footer:
-  links:
-    - label: "Bylaws"
-      icon: "fab fa-fw fa-globe"
-      url: "/bylaws"
+
 defaults:
   # _pages
   - scope:
