@@ -10,7 +10,7 @@ header:
 
 ## Project Cancellation
 
-This project has successfully failed to pass the feasibility assessment stage and has been cancelled. A list of reasons why this project is not feasible are below:
+This project has failed to pass the feasibility assessment stage and has been cancelled. A list of reasons why this project is not feasible are below:
 
 ## Technical Performance Issues
 
