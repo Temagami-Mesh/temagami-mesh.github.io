@@ -8,8 +8,6 @@ header:
   caption: "Connecting Temagami through resilient mesh networking"
 ---
 
-We are now hosting a public [Mesh Monitor](https://monitor.temagami-mesh.net/) web service for our region. This provides a web map showing the locations of regional assets and a mesh telemetry dashboard showing node status and signal strengths.
-
 There is a [Facebook Page](https://www.facebook.com/profile.php?id=61590702792189) for end-user discussions and to help foster the adoption of Mesh networking technology.
 
 There is a [GitHub Discussion Group](https://github.com/orgs/Temagami-Meshtastic/discussions) where you can ask technical questions, post updates, and get support with your projects. This is the place for more technical discussions.
