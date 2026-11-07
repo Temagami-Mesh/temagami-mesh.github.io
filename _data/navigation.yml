@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Plan"
-    url: /plan/    
+  - title: "Cancellation"
+    url: /cancel/    
   - title: "Connect"
     url: /connect/
   - title: "More Info"
